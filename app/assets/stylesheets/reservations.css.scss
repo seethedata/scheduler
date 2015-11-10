@@ -1,0 +1,27 @@
+// Place all the styles related to the reservations controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#new_reservation, .edit_reservation{ width : 135em ; margin: 0 auto 0 auto; background-color : #F5F5F5; color : #FFFFFF; padding : 2em ; border: solid ; border-color: $site-blue; border-width: 0.15em ;  border-radius : 1em;}
+
+#reservation_form { font-size : 1.5em ; float : left ; width : 30em; background-color : $site-blue; margin-top: 2em;}
+
+#asset_form { font-size : 1.5em ; float : right ; width : 56em ; background-color : $site-blue; margin-top: 2em;}
+
+#reserve_button { font-size : 1.5em ; margin-top : 3em; text-align : center; } 
+
+#clearing { clear : both; }
+
+#reservation_list { font-size : 1.6em ; width: 70em}
+
+.asset_site { border : solid ; height : 100% ;float : left ; margin : 1em 2em 1em 2em ; text-align :center; font-size : 1.5em; width : 14em ;}
+
+.asset_item {text-align : left; font-size : .8em;}
+
+.reservation_assets {width : 30em; }
+
+.reservation { border-bottom : .2em solid;}
+
+#report_form { background-color : $site-gray ; font-size: 1.2em; width: 30em ; padding: 0 0 10em 0; margin: 10em auto 0 auto; text-align: center;}
+
+#ip_list {font-size: 1.6em ; width : 30em; margin: 5em auto 0 auto;}

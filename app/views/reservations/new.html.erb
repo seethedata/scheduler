@@ -1,0 +1,54 @@
+<% if @reservation.errors.any? %>
+<%= render partial: "shared/error", locals: { object: @reservation} %>
+<% end %>
+
+<%= render "shared/ip_list" %>
+<%= form_for @reservation, url: {action: "create"} do |f| %>
+	<div id="reservation_form">
+	<div id="reservation_header" class="form_header">Reserve</div>
+	<table id="reservation_select">
+	<tr>
+	<td> <%= f.label :reservation_type %> </td>
+	<td><%= select(:reservation, :reservation_type, options_for_select([['Demo','Demo'],['Partner Training','Partner Training'], 
+				['Internal Training','Internal Training'],['Maintenance/Upgrades','Maintenance/Upgrades'],['POC','POC']],"Demo")) %>  <td/>
+	</tr>
+	<tr>
+  	<td><%= f.label :start_date %></td>
+  	<td><%= text_field :reservation, :start_date %> </td>
+	</tr>
+	<tr>
+  	<td><%= f.label :start_time %></td>
+  	<td><%= text_field :reservation, :start_time %> </td>
+	</tr>
+	<tr>
+  	<td><%= f.label :end_time %></td>
+  	<td><%= text_field :reservation, :end_time %> </td>
+	</tr>
+	<tr>
+  	<td><%= f.label :partner %></td>
+  	<td><%= f.text_field :partner %> </td>
+	</tr>
+	<tr>
+  	<td><%= f.label :customer %> </td>
+  	<td><%= f.text_field :customer %> </td>
+	</tr>
+	</table>
+	</div>
+	<div id="asset_form">
+	<div id="asset_header" class="form_header">Equipment</div>
+	<div id="asset_select">
+	 <% @all_sites.each do |a| %>
+		<div id="<%=a.site%>" class="asset_site"><%=a.site%>
+                <% @all_assets.where(site: a.site).each do |a|%>
+			<%= fields_for :assets do |asset_form| %>
+				<div class="asset_item"><%= check_box_tag "reservation[asset_ids][]", a.id %>
+				<%= asset_form.label nil, a.name %> </div>
+			<% end %>
+		<% end %>
+		</div>
+	<% end %>
+	</div>
+	</div>
+	<div id="clearing"></div>
+	<div id="reserve_button"><%= f.submit "Reserve", class: "big_button" %></div>
+<% end %>

@@ -1,0 +1,38 @@
+<% if @reservation.errors.any? %>
+<%= render partial: "shared/error", locals: { object: @reservation} %>
+<% end %>
+
+<div id="reservation_list">
+	<table>
+	<tr>
+	<th>Reservation Date</th>
+	<th>Start</th>
+	<th>End</th>
+	<th>Type</th>
+	<th>User</th>
+	<th>Partner</th>
+	<th>Customer</th>
+	</tr>
+	<tr>
+	<td><%= @reservation.start_date.strftime("%D") %></td>
+	<td><%= @reservation.start_time.strftime("%I:%M %P") %> </td>
+	<td><%= @reservation.end_time.strftime("%I:%M %P")  %> </td>
+	<td><%= @reservation.reservation_type %></td>
+	<td><%= @user_full_name %></td>
+	<td><%= @reservation.partner %></td>
+	<td><%= @reservation.customer %></td>
+	<% if current_user.id == @reservation.user_id %>
+		<td class="edit list_button"><%= link_to "Edit", edit_reservation_path(@reservation), method: :get %></td>
+		<td class="remove list_button"><%= link_to "Remove", @reservation, method: :delete, data: {confirm: "Are you sure?" } %></td>
+	<% end %>
+	</tr>
+	</table>
+	<div class="reservation_assets">
+       		<h4>View Equipment</h4>
+       		<div>
+               		<% @reservation.asset_ids.each do |i| %>
+				<%= Asset.find(i).name %><br/>
+               		<% end %>
+       		</div>
+	</div>
+</div>

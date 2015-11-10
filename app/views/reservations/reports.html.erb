@@ -1,0 +1,11 @@
+<div id="report_form">
+<div id="report_header" class="form_header">Report</div>
+<%=form_tag("/reservations/report.xls", method: "post") do %>
+	<%= label_tag(:quarter, "Quarter") %>
+        <%= select_tag(:quarter, options_for_select([['Q1','1'],['Q2','2'], ['Q3','3'],['Q4','4']],"Q1")) %>
+	<%= label_tag(:year, "year") %>
+	<%= text_field_tag(:year, Time.now.strftime("%Y")) %>
+  	<%= submit_tag "Generate Report" %>
+<% end %>
+</div>
+

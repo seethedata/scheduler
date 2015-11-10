@@ -1,0 +1,15 @@
+<div id="user_list">
+<%= form_for @user, url: {action: "update"} do |f| %>
+        <%= f.label :first_name %>
+        <%= text_field :user, :first_name %>
+        <%= f.label :last_name %>
+        <%= text_field :user, :last_name %>
+        <%= f.label :login %>
+        <%= text_field :user, :login%>
+        <%= f.label :email%>
+        <%= text_field :user, :email%>
+        <%= f.label :active%>
+        <%= f.check_box :active, {}, "Y", "N"%>
+        <%= f.submit "Update" %>
+<% end %>
+</div>

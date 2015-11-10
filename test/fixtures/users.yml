@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: Test
+  last_name: User1
+  login: ldap_user
+  email: MyString
+  active: "Y"
+
+two:
+  first_name: MyString
+  last_name: MyString
+  login: MyString
+  email: MyString
+  active: MyString

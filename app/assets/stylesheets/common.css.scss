@@ -1,0 +1,17 @@
+body { font-size : 62.5% ;  background-color : #FFFFFF;}
+
+#error_explaination { font-size : 3em ; background-color : #EE1122; color : #FFFF00;}
+
+.form_header { background-color : $site-blue; font-size : 2em; color : #FFFFFF; text-align : center; border-bottom : solid 2px #FFFFFF; }
+
+
+.big_button { color : #FFFFFF; background-color : $site-blue ; height: 2em ; width : 6em ; font-size :1.6em ; border-radius : 1em;}
+
+.list_button {width: 3.5em; border-radius: .5em; text-align: center;}
+
+.list_button  a:link, .list_button a:visited, .list_button a:active {  color : #FFFFFF; text-decoration: none;}
+
+.edit { background-color: $site-blue; }
+.remove { background-color: $site-red; }
+.activate { background-color: $site-green; }
+.deactivate { background-color: $site-yellow; }

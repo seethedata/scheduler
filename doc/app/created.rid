@@ -1,0 +1,16 @@
+Thu, 25 Sep 2014 08:46:04 -0400
+README.rdoc	Thu, 11 Sep 2014 17:24:24 -0400
+app/controllers/application_controller.rb	Tue, 16 Sep 2014 11:53:25 -0400
+app/controllers/assets_controller.rb	Wed, 24 Sep 2014 10:54:54 -0400
+app/controllers/reservations_controller.rb	Wed, 24 Sep 2014 14:43:06 -0400
+app/controllers/sessions_controller.rb	Wed, 24 Sep 2014 22:03:19 -0400
+app/controllers/users_controller.rb	Tue, 23 Sep 2014 21:25:42 -0400
+app/controllers/welcome_controller.rb	Tue, 16 Sep 2014 11:50:15 -0400
+app/helpers/application_helper.rb	Thu, 11 Sep 2014 17:24:24 -0400
+app/helpers/assets_helper.rb	Thu, 11 Sep 2014 20:46:06 -0400
+app/helpers/reservations_helper.rb	Thu, 11 Sep 2014 20:24:24 -0400
+app/helpers/users_helper.rb	Thu, 11 Sep 2014 20:46:02 -0400
+app/helpers/welcome_helper.rb	Thu, 11 Sep 2014 17:24:34 -0400
+app/models/asset.rb	Wed, 17 Sep 2014 19:58:21 -0400
+app/models/reservation.rb	Mon, 22 Sep 2014 23:24:41 -0400
+app/models/user.rb	Fri, 19 Sep 2014 10:39:54 -0400

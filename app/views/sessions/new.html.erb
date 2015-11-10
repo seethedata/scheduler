@@ -1,0 +1,25 @@
+<% content_for :stylesheets do %>
+  <style>#menu_links { display: none } </style>
+<% end %>
+
+<% if flash[:error] %>
+<div id="error_explaination"><%= flash[:error] %> </div>
+<% end %>
+
+<div id="login_form">
+	<div id="login_header" class="form_header">Scheduler Login</div>
+	<%= adauth_form do %>
+	<table id="login_input">
+		<tr>
+			<td><%= label_tag :username %> </td>
+			<td><%= text_field_tag :username %> </td>
+		</tr>
+		<tr>
+			<td><%= label_tag :password %></td>
+			<td><%= password_field_tag :password %> </td>
+		</tr>
+	</table>
+	<%= submit_tag "Login", id: "login_button"  %>
+	<% end %>
+</div>
+<div id="rails_logo"><%= link_to image_tag("ruby-on-rails-profile.png", {id: "rails_logo" }) , "http://rubyonrails.org" %> </div>

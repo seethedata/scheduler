@@ -1,0 +1,22 @@
+<table id="asset_list">
+<tr>
+<th>Name</th>
+<th>Site</th>
+<th>IP Address</th>
+<th>Ping Test?</th>
+<th>Active?</th>
+</tr>
+<% @assets.each do |asset| %>
+<tr>
+<td><%= asset.name %></td>
+<td><%= asset.site %></td>
+<td><%= asset.ip_address %></td>
+<td><%= asset.test_ping %></td>
+<td><%= asset.active %></td>
+<td class="edit list_button"><%= link_to "Edit", edit_asset_path(asset) %></td>
+<td class="activate list_button"><%= link_to "Activate", activate_asset_path(asset), data: {confirm: "Are you sure?" }, method: :post %></td>
+<td class="deactivate list_button"><%= link_to "Deactivate", deactivate_asset_path(asset), data: {confirm: "Are you sure?", method: :post } %></td>
+<td class="remove list_button"><%= link_to "Remove", asset, method: :delete, data: {confirm: "Are you sure?" } %></td>
+</tr>
+<% end %>
+</table>

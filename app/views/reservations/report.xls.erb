@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:html="http://www.w3.org/TR/REC-html40">
+  <Worksheet ss:Name="<%= "Q" + @quarter + "-" + @year %>">
+    <Table>
+      <Row>
+        <Cell><Data ss:Type="String">Date</Data></Cell>
+        <Cell><Data ss:Type="String">Start Time</Data></Cell>
+        <Cell><Data ss:Type="String">End Time</Data></Cell>
+        <Cell><Data ss:Type="String">Type</Data></Cell>
+        <Cell><Data ss:Type="String">Partner</Data></Cell>
+        <Cell><Data ss:Type="String">Customer</Data></Cell>
+        <Cell><Data ss:Type="String">User</Data></Cell>
+      </Row>
+    <% @reservations.each do |reservation| %>
+      <Row>
+        <Cell><Data ss:Type="String"><%= reservation.start_date.strftime("%m/%d/%Y") %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= reservation.start_time.strftime("%I:%M %P") %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= reservation.end_time.strftime("%I:%M %P") %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= reservation.reservation_type %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= reservation.partner %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= reservation.customer %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= reservation.user.login %></Data></Cell>
+      </Row>
+    <% end %>
+	<Row></Row>
+	<Row></Row>
+	<Row></Row>
+	<Row></Row>
+	<Row></Row>
+      <Row>
+        <Cell><Data ss:Type="String">User</Data></Cell>
+        <Cell><Data ss:Type="String"># of Events</Data></Cell>
+      </Row>
+    <% @userReservationsCount.each do |user| %>
+      <Row>
+        <Cell><Data ss:Type="String"><%= user[0] %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= user[1]%></Data></Cell>
+      </Row>
+    <% end %>
+	<Row></Row>
+	<Row></Row>
+	<Row></Row>
+	<Row></Row>
+	<Row></Row>
+      <Row>
+        <Cell><Data ss:Type="String">Reservation Type</Data></Cell>
+        <Cell><Data ss:Type="String"># of Events</Data></Cell>
+      </Row>
+    <% @typeCount.each do |type| %>
+      <Row>
+        <Cell><Data ss:Type="String"><%= type[0] %></Data></Cell>
+        <Cell><Data ss:Type="String"><%= type[1]%></Data></Cell>
+      </Row>
+    <% end %>
+    </Table>
+
+  </Worksheet>
+</Workbook>

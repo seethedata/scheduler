@@ -1,0 +1,264 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+*/
+/*
+ */
+@import url(colors.css);
+@import url(jquery-ui/datepicker.css);
+@import url(jquery-ui/accordion.css);
+@import url(jquery.timepicker.css);
+/* line 4, /home/chris/scheduler/app/assets/stylesheets/assets.css.scss */
+#asset_list {
+  font-size: 1.6em;
+}
+
+/* line 1, /home/chris/scheduler/app/assets/stylesheets/common.css.scss */
+body {
+  font-size: 62.5%;
+  background-color: #FFFFFF;
+}
+
+/* line 3, /home/chris/scheduler/app/assets/stylesheets/common.css.scss */
+#error_explaination {
+  font-size: 3em;
+  background-color: #EE1122;
+  color: #FFFF00;
+}
+
+/* line 5, /home/chris/scheduler/app/assets/stylesheets/common.css.scss */
+.form_header {
+  background-color: #3376ba;
+  font-size: 2em;
+  color: #FFFFFF;
+  text-align: center;
+  border-bottom: solid 2px #FFFFFF;
+}
+
+/* line 8, /home/chris/scheduler/app/assets/stylesheets/common.css.scss */
+.big_button {
+  color: #FFFFFF;
+  background-color: #3376ba;
+  height: 2em;
+  width: 6em;
+  font-size: 1.6em;
+  border-radius: 1em;
+}
+
+/* line 10, /home/chris/scheduler/app/assets/stylesheets/common.css.scss */
+.list_button {
+  width: 3.5em;
+  border-radius: .5em;
+  text-align: center;
+}
+
+/* line 12, /home/chris/scheduler/app/assets/stylesheets/common.css.scss */
+.list_button a:link, .list_button a:visited, .list_button a:active {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+/* line 14, /home/chris/scheduler/app/assets/stylesheets/common.css.scss */
+.edit {
+  background-color: #3376ba;
+}
+
+/* line 15, /home/chris/scheduler/app/assets/stylesheets/common.css.scss */
+.remove {
+  background-color: #dd1111;
+}
+
+/* line 16, /home/chris/scheduler/app/assets/stylesheets/common.css.scss */
+.activate {
+  background-color: #11dd11;
+}
+
+/* line 17, /home/chris/scheduler/app/assets/stylesheets/common.css.scss */
+.deactivate {
+  background-color: #dddd11;
+}
+
+/* line 2, /home/chris/scheduler/app/assets/stylesheets/header.css.scss */
+#header {
+  font-size: 5em;
+  color: white;
+  background-color: #3376ba;
+}
+
+/* line 4, /home/chris/scheduler/app/assets/stylesheets/header.css.scss */
+#menu_links a:link, #menu_links a:visited, #menu_links a:active {
+  color: #FFFFFF;
+}
+
+/* line 6, /home/chris/scheduler/app/assets/stylesheets/header.css.scss */
+span#menu_links {
+  background-color: #3376ba;
+  padding: 0.5em 2em 0 0;
+  font-size: 0.35em;
+  float: right;
+}
+
+/* line 8, /home/chris/scheduler/app/assets/stylesheets/header.css.scss */
+.header_button {
+  height: 2.5em;
+  width: 2.5em;
+  border: 0;
+}
+
+/* line 5, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+#new_reservation, .edit_reservation {
+  width: 135em;
+  margin: 0 auto 0 auto;
+  background-color: #F5F5F5;
+  color: #FFFFFF;
+  padding: 2em;
+  border: solid;
+  border-color: #3376ba;
+  border-width: 0.15em;
+  border-radius: 1em;
+}
+
+/* line 7, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+#reservation_form {
+  font-size: 1.5em;
+  float: left;
+  width: 30em;
+  background-color: #3376ba;
+  margin-top: 2em;
+}
+
+/* line 9, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+#asset_form {
+  font-size: 1.5em;
+  float: right;
+  width: 56em;
+  background-color: #3376ba;
+  margin-top: 2em;
+}
+
+/* line 11, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+#reserve_button {
+  font-size: 1.5em;
+  margin-top: 3em;
+  text-align: center;
+}
+
+/* line 13, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+#clearing {
+  clear: both;
+}
+
+/* line 15, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+#reservation_list {
+  font-size: 1.6em;
+  width: 70em;
+}
+
+/* line 17, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+.asset_site {
+  border: solid;
+  height: 100%;
+  float: left;
+  margin: 1em 2em 1em 2em;
+  text-align: center;
+  font-size: 1.5em;
+  width: 14em;
+}
+
+/* line 19, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+.asset_item {
+  text-align: left;
+  font-size: .8em;
+}
+
+/* line 21, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+.reservation_assets {
+  width: 30em;
+}
+
+/* line 23, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+.reservation {
+  border-bottom: .2em solid;
+}
+
+/* line 25, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+#report_form {
+  background-color: whitesmoke;
+  font-size: 1.2em;
+  width: 30em;
+  padding: 0 0 10em 0;
+  margin: 10em auto 0 auto;
+  text-align: center;
+}
+
+/* line 27, /home/chris/scheduler/app/assets/stylesheets/reservations.css.scss */
+#ip_list {
+  font-size: 1.6em;
+  width: 30em;
+  margin: 5em auto 0 auto;
+}
+
+/* line 6, /home/chris/scheduler/app/assets/stylesheets/sessions.css.scss */
+div#login_form {
+  border-radius: 0.5em;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  width: 20em;
+  font-size: 1.6em;
+  background-color: whitesmoke;
+  color: #FFFFFF;
+  padding: 1em;
+  border: solid;
+  border-width: 0.15em;
+  border-color: #3376ba;
+}
+
+/* line 8, /home/chris/scheduler/app/assets/stylesheets/sessions.css.scss */
+#username, #password {
+  width: 12em;
+}
+
+/* line 10, /home/chris/scheduler/app/assets/stylesheets/sessions.css.scss */
+#login_header {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 12, /home/chris/scheduler/app/assets/stylesheets/sessions.css.scss */
+#login_input {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #3376ba;
+  margin-bottom: 2em;
+  padding: 1em 0 1em 0;
+}
+
+/* line 14, /home/chris/scheduler/app/assets/stylesheets/sessions.css.scss */
+#login_button {
+  font-size: 1.6em;
+  color: white;
+  background-color: #3376ba;
+  width: 90%;
+  border: solid;
+  border-width: 1px;
+  border-radius: 20em;
+}
+
+/* line 4, /home/chris/scheduler/app/assets/stylesheets/users.css.scss */
+#user_list {
+  font-size: 1.6em;
+}

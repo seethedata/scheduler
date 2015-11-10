@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  ip_address: MyString
+  test_ping: MyString
+  site: MyString
+  active: MyString
+
+two:
+  name: MyString
+  ip_address: MyString
+  test_ping: MyString
+  site: MyString
+  active: MyString

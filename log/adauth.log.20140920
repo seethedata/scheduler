@@ -1,0 +1,1187 @@
+# Logfile created on 2014-09-14 10:49:57 -0400 by logger.rb/44203
+I, [2014-09-14T10:49:57.209551 #9621]  INFO -- load: Loading new config
+I, [2014-09-14T10:53:07.284381 #9652]  INFO -- load: Loading new config
+I, [2014-09-14T13:49:08.051068 #10335]  INFO -- load: Loading new config
+I, [2014-09-14T19:26:56.349055 #10672]  INFO -- load: Loading new config
+I, [2014-09-14T19:28:03.191900 #10675]  INFO -- load: Loading new config
+I, [2014-09-14T19:28:44.831719 #10679]  INFO -- load: Loading new config
+I, [2014-09-14T19:29:20.521398 #10682]  INFO -- load: Loading new config
+I, [2014-09-14T20:01:08.054782 #10705]  INFO -- load: Loading new config
+I, [2014-09-14T20:04:52.586919 #10803]  INFO -- load: Loading new config
+I, [2014-09-14T20:06:27.856921 #10848]  INFO -- load: Loading new config
+I, [2014-09-14T20:07:47.259967 #10858]  INFO -- load: Loading new config
+I, [2014-09-14T20:08:16.374648 #10870]  INFO -- load: Loading new config
+I, [2014-09-14T20:11:48.638338 #10903]  INFO -- load: Loading new config
+I, [2014-09-14T20:16:29.196957 #10964]  INFO -- load: Loading new config
+I, [2014-09-14T20:52:28.863741 #11203]  INFO -- load: Loading new config
+I, [2014-09-14T20:54:45.647400 #11228]  INFO -- load: Loading new config
+I, [2014-09-14T20:55:03.247726 #11228]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T20:55:03.254650 #11228]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T20:55:03.254828 #11228]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T20:55:03.285283 #11228]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T20:55:03.306535 #11228]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T20:55:03.309011 #11228]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T20:55:03.311082 #11228]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T20:55:03.313153 #11228]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T20:55:03.315355 #11228]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T20:59:20.292028 #11280]  INFO -- load: Loading new config
+I, [2014-09-14T20:59:41.871162 #11280]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T20:59:41.875799 #11280]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T20:59:41.875996 #11280]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T20:59:41.887296 #11280]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T20:59:41.901075 #11280]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T20:59:41.903863 #11280]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T20:59:41.906172 #11280]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T20:59:41.908272 #11280]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T20:59:41.910694 #11280]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T21:02:12.183769 #11366]  INFO -- load: Loading new config
+I, [2014-09-14T21:02:46.889951 #11383]  INFO -- load: Loading new config
+I, [2014-09-14T21:02:58.036483 #11386]  INFO -- load: Loading new config
+I, [2014-09-14T21:03:07.845202 #11386]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:03:07.848920 #11386]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T21:03:07.849072 #11386]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T21:03:07.858168 #11386]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T21:03:07.868350 #11386]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T21:03:07.870717 #11386]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T21:03:07.872828 #11386]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T21:03:07.874835 #11386]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T21:03:07.876926 #11386]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T21:04:58.129120 #11424]  INFO -- load: Loading new config
+I, [2014-09-14T21:05:10.376411 #11424]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:05:10.379915 #11424]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T21:05:10.380032 #11424]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T21:05:10.391707 #11424]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T21:05:10.400590 #11424]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T21:05:10.402946 #11424]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T21:05:10.405109 #11424]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T21:05:10.407188 #11424]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T21:05:10.409365 #11424]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T21:10:14.318059 #11608]  INFO -- load: Loading new config
+I, [2014-09-14T21:12:09.414519 #11682]  INFO -- load: Loading new config
+I, [2014-09-14T21:16:20.048631 #11720]  INFO -- load: Loading new config
+I, [2014-09-14T21:21:05.356060 #11740]  INFO -- load: Loading new config
+I, [2014-09-14T21:22:35.477181 #11774]  INFO -- load: Loading new config
+I, [2014-09-14T21:22:53.878825 #11779]  INFO -- load: Loading new config
+I, [2014-09-14T21:23:15.526928 #11784]  INFO -- load: Loading new config
+I, [2014-09-14T21:23:26.347095 #11784]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:23:26.352078 #11784]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T21:23:26.352276 #11784]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T21:23:26.361889 #11784]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T21:23:26.375699 #11784]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T21:23:26.378062 #11784]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T21:23:26.380255 #11784]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T21:23:26.382425 #11784]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T21:23:26.384548 #11784]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T21:23:49.012504 #11784]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:23:49.194739 #11784]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-14T21:24:03.906828 #11798]  INFO -- load: Loading new config
+I, [2014-09-14T21:24:25.337622 #11798]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:24:25.371466 #11798]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-14T21:26:34.650489 #11810]  INFO -- load: Loading new config
+I, [2014-09-14T21:27:39.985051 #11810]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:27:40.009475 #11810]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-14T21:30:19.304512 #11883]  INFO -- load: Loading new config
+I, [2014-09-14T21:30:36.595756 #11883]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:30:36.605542 #11883]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-14T21:33:22.313476 #11989]  INFO -- load: Loading new config
+I, [2014-09-14T21:33:34.892356 #11989]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:33:34.902141 #11989]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-14T21:34:15.909615 #12042]  INFO -- load: Loading new config
+I, [2014-09-14T21:34:53.991453 #12054]  INFO -- load: Loading new config
+I, [2014-09-14T21:35:19.655915 #12066]  INFO -- load: Loading new config
+I, [2014-09-14T21:35:34.584296 #12066]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:35:34.605305 #12066]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-14T21:35:54.307629 #12079]  INFO -- load: Loading new config
+I, [2014-09-14T21:36:08.458875 #12079]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:36:08.462996 #12079]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T21:36:08.463116 #12079]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T21:36:08.474347 #12079]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T21:36:08.488196 #12079]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T21:36:08.490571 #12079]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T21:36:08.492543 #12079]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T21:36:08.494546 #12079]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T21:36:08.496644 #12079]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T21:40:16.117312 #12125]  INFO -- load: Loading new config
+I, [2014-09-14T21:40:27.939956 #12125]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:40:27.960557 #12125]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-14T21:50:11.710608 #12186]  INFO -- load: Loading new config
+I, [2014-09-14T21:50:41.713409 #12186]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:50:41.735720 #12186]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-14T21:50:56.167499 #12186]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T21:50:56.171738 #12186]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T21:50:56.171894 #12186]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T21:50:56.181601 #12186]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T21:50:56.188854 #12186]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T21:50:56.191214 #12186]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T21:50:56.193284 #12186]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T21:50:56.195295 #12186]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T21:50:56.197419 #12186]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T21:55:57.538302 #12279]  INFO -- load: Loading new config
+I, [2014-09-14T21:56:36.773064 #12297]  INFO -- load: Loading new config
+I, [2014-09-14T21:57:43.949185 #12313]  INFO -- load: Loading new config
+I, [2014-09-14T21:58:24.756156 #12325]  INFO -- load: Loading new config
+I, [2014-09-14T22:00:45.622076 #12336]  INFO -- load: Loading new config
+I, [2014-09-14T22:02:00.154765 #12347]  INFO -- load: Loading new config
+I, [2014-09-14T22:03:08.523735 #12380]  INFO -- load: Loading new config
+I, [2014-09-14T22:04:43.488674 #12398]  INFO -- load: Loading new config
+I, [2014-09-14T22:05:54.721178 #12405]  INFO -- load: Loading new config
+I, [2014-09-14T22:06:07.045914 #12405]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T22:06:07.109819 #12405]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-14T22:06:12.540065 #12405]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T22:06:12.544165 #12405]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T22:06:12.544361 #12405]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T22:06:12.555375 #12405]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T22:06:12.562934 #12405]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T22:06:12.565359 #12405]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T22:06:12.567568 #12405]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:06:12.569755 #12405]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:06:12.571868 #12405]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T22:06:57.042043 #12420]  INFO -- load: Loading new config
+I, [2014-09-14T22:07:35.343922 #12432]  INFO -- load: Loading new config
+I, [2014-09-14T22:08:03.998609 #12444]  INFO -- load: Loading new config
+I, [2014-09-14T22:08:44.134239 #12456]  INFO -- load: Loading new config
+I, [2014-09-14T22:09:00.504169 #12468]  INFO -- load: Loading new config
+I, [2014-09-14T22:09:12.432770 #12489]  INFO -- load: Loading new config
+I, [2014-09-14T22:10:14.997497 #12498]  INFO -- load: Loading new config
+I, [2014-09-14T22:15:07.121248 #12505]  INFO -- load: Loading new config
+I, [2014-09-14T22:18:05.591017 #12524]  INFO -- load: Loading new config
+I, [2014-09-14T22:18:18.555438 #12524]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T22:18:18.559802 #12524]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T22:18:18.559923 #12524]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T22:18:18.569689 #12524]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T22:18:18.580279 #12524]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T22:18:18.582721 #12524]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T22:18:18.585050 #12524]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:18:18.587129 #12524]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:18:18.589226 #12524]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T22:19:18.740537 #12546]  INFO -- load: Loading new config
+I, [2014-09-14T22:20:38.018592 #12585]  INFO -- load: Loading new config
+I, [2014-09-14T22:21:01.554771 #12585]  INFO -- authentication: Attempting to authenticate as stronj
+I, [2014-09-14T22:21:01.558775 #12585]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = stronj
+I, [2014-09-14T22:21:01.558945 #12585]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T22:21:01.568176 #12585]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T22:21:01.575494 #12585]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T22:21:01.577822 #12585]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T22:21:01.579934 #12585]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:21:01.582069 #12585]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:21:01.584269 #12585]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T22:23:19.799867 #12615]  INFO -- load: Loading new config
+I, [2014-09-14T22:23:48.232676 #12615]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T22:23:48.236282 #12615]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T22:23:48.236387 #12615]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T22:23:48.244676 #12615]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T22:23:48.250979 #12615]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T22:23:48.253087 #12615]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T22:23:48.254943 #12615]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:23:48.256850 #12615]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:23:48.258816 #12615]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T22:24:46.891539 #12637]  INFO -- load: Loading new config
+I, [2014-09-14T22:24:58.000258 #12637]  INFO -- authentication: Attempting to authenticate as stronj
+I, [2014-09-14T22:24:58.003196 #12637]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = stronj
+I, [2014-09-14T22:24:58.003389 #12637]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T22:24:58.012609 #12637]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T22:24:58.020535 #12637]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T22:24:58.022849 #12637]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T22:24:58.025123 #12637]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:24:58.027082 #12637]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:24:58.029109 #12637]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T22:29:00.167451 #12682]  INFO -- load: Loading new config
+I, [2014-09-14T22:29:17.987053 #12682]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-14T22:29:17.990506 #12682]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-14T22:29:17.990612 #12682]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-14T22:29:17.999796 #12682]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-14T22:29:18.008075 #12682]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-14T22:29:18.010285 #12682]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-14T22:29:18.012285 #12682]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:29:18.014298 #12682]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-14T22:29:18.016372 #12682]  INFO -- authentication: Authentication succesful
+I, [2014-09-14T22:29:47.300240 #12696]  INFO -- load: Loading new config
+I, [2014-09-14T22:30:16.825622 #12708]  INFO -- load: Loading new config
+I, [2014-09-14T22:30:39.547688 #12715]  INFO -- load: Loading new config
+I, [2014-09-14T22:32:07.869021 #12722]  INFO -- load: Loading new config
+I, [2014-09-14T22:32:40.063300 #12725]  INFO -- load: Loading new config
+I, [2014-09-14T22:33:58.085032 #12737]  INFO -- load: Loading new config
+I, [2014-09-14T22:34:17.191687 #12744]  INFO -- load: Loading new config
+I, [2014-09-14T22:34:48.448666 #12747]  INFO -- load: Loading new config
+I, [2014-09-14T22:34:53.096270 #12749]  INFO -- load: Loading new config
+I, [2014-09-15T16:07:16.161821 #13653]  INFO -- load: Loading new config
+I, [2014-09-15T16:58:15.613162 #13895]  INFO -- load: Loading new config
+I, [2014-09-15T16:58:41.815494 #13895]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-15T16:58:41.821392 #13895]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-15T16:58:41.821506 #13895]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-15T16:58:41.835584 #13895]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-15T16:58:41.844544 #13895]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-15T16:58:41.847174 #13895]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-15T16:58:41.849215 #13895]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-15T16:58:41.851494 #13895]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-15T16:58:41.853602 #13895]  INFO -- authentication: Authentication succesful
+I, [2014-09-15T16:59:34.092330 #13909]  INFO -- load: Loading new config
+I, [2014-09-15T17:00:19.094814 #13928]  INFO -- load: Loading new config
+I, [2014-09-15T17:01:55.895635 #13988]  INFO -- load: Loading new config
+I, [2014-09-15T17:05:05.530992 #14018]  INFO -- load: Loading new config
+I, [2014-09-15T17:06:58.559129 #14052]  INFO -- load: Loading new config
+I, [2014-09-15T20:20:09.556218 #14329]  INFO -- load: Loading new config
+I, [2014-09-15T20:26:58.487806 #14384]  INFO -- load: Loading new config
+I, [2014-09-15T20:29:36.139874 #14421]  INFO -- load: Loading new config
+I, [2014-09-15T20:30:29.593805 #14433]  INFO -- load: Loading new config
+I, [2014-09-15T20:33:40.864240 #14462]  INFO -- load: Loading new config
+I, [2014-09-15T20:46:36.704298 #14515]  INFO -- load: Loading new config
+I, [2014-09-15T20:47:03.853828 #14527]  INFO -- load: Loading new config
+I, [2014-09-15T20:47:33.001557 #14539]  INFO -- load: Loading new config
+I, [2014-09-15T20:48:32.240070 #14550]  INFO -- load: Loading new config
+I, [2014-09-15T20:49:01.994733 #14560]  INFO -- load: Loading new config
+I, [2014-09-15T20:52:02.964710 #14569]  INFO -- load: Loading new config
+I, [2014-09-15T20:54:05.108362 #14577]  INFO -- load: Loading new config
+I, [2014-09-15T20:58:56.530915 #14584]  INFO -- load: Loading new config
+I, [2014-09-15T20:59:21.236988 #14591]  INFO -- load: Loading new config
+I, [2014-09-15T21:15:37.776982 #14627]  INFO -- load: Loading new config
+I, [2014-09-15T21:16:10.974430 #14634]  INFO -- load: Loading new config
+I, [2014-09-15T21:17:10.353931 #14644]  INFO -- load: Loading new config
+I, [2014-09-15T21:18:38.466719 #14651]  INFO -- load: Loading new config
+I, [2014-09-15T21:19:33.555074 #14658]  INFO -- load: Loading new config
+I, [2014-09-15T21:20:08.997264 #14665]  INFO -- load: Loading new config
+I, [2014-09-15T21:22:15.563553 #14694]  INFO -- load: Loading new config
+I, [2014-09-15T21:23:08.557364 #14705]  INFO -- load: Loading new config
+I, [2014-09-15T21:24:36.250715 #14716]  INFO -- load: Loading new config
+I, [2014-09-15T21:25:05.289760 #14725]  INFO -- load: Loading new config
+I, [2014-09-15T21:26:25.588188 #14733]  INFO -- load: Loading new config
+I, [2014-09-15T21:32:41.482643 #14740]  INFO -- load: Loading new config
+I, [2014-09-15T21:33:13.866892 #14747]  INFO -- load: Loading new config
+I, [2014-09-15T21:34:31.733712 #14754]  INFO -- load: Loading new config
+I, [2014-09-15T21:36:52.670747 #14761]  INFO -- load: Loading new config
+I, [2014-09-15T21:39:49.681621 #14780]  INFO -- load: Loading new config
+I, [2014-09-15T21:40:45.442301 #14787]  INFO -- load: Loading new config
+I, [2014-09-15T21:41:04.429908 #14794]  INFO -- load: Loading new config
+I, [2014-09-15T21:44:04.662549 #14869]  INFO -- load: Loading new config
+I, [2014-09-15T21:46:34.761561 #14883]  INFO -- load: Loading new config
+I, [2014-09-15T21:48:47.041134 #14890]  INFO -- load: Loading new config
+I, [2014-09-15T21:50:38.296486 #14905]  INFO -- load: Loading new config
+I, [2014-09-15T21:51:12.280008 #14912]  INFO -- load: Loading new config
+I, [2014-09-15T21:51:32.288312 #14919]  INFO -- load: Loading new config
+I, [2014-09-15T21:52:43.762668 #14951]  INFO -- load: Loading new config
+I, [2014-09-15T21:53:10.557685 #14959]  INFO -- load: Loading new config
+I, [2014-09-15T21:55:28.301810 #14983]  INFO -- load: Loading new config
+I, [2014-09-15T22:06:15.233909 #15028]  INFO -- load: Loading new config
+I, [2014-09-15T22:09:57.454117 #15053]  INFO -- load: Loading new config
+I, [2014-09-15T22:11:18.337156 #15083]  INFO -- load: Loading new config
+I, [2014-09-15T22:14:06.652680 #15095]  INFO -- load: Loading new config
+I, [2014-09-15T22:16:11.202416 #15107]  INFO -- load: Loading new config
+I, [2014-09-15T22:16:47.312442 #15119]  INFO -- load: Loading new config
+I, [2014-09-15T22:18:52.193902 #15134]  INFO -- load: Loading new config
+I, [2014-09-15T22:19:09.616535 #15142]  INFO -- load: Loading new config
+I, [2014-09-15T22:19:57.736618 #15154]  INFO -- load: Loading new config
+I, [2014-09-15T22:21:39.580593 #15166]  INFO -- load: Loading new config
+I, [2014-09-15T22:23:47.641165 #15178]  INFO -- load: Loading new config
+I, [2014-09-15T22:25:38.762393 #15258]  INFO -- load: Loading new config
+I, [2014-09-15T22:26:42.144343 #15270]  INFO -- load: Loading new config
+I, [2014-09-15T22:27:10.835261 #15282]  INFO -- load: Loading new config
+I, [2014-09-15T22:27:47.820750 #15294]  INFO -- load: Loading new config
+I, [2014-09-15T22:28:23.106893 #15306]  INFO -- load: Loading new config
+I, [2014-09-15T22:29:48.370087 #15336]  INFO -- load: Loading new config
+I, [2014-09-15T22:30:31.167718 #15365]  INFO -- load: Loading new config
+I, [2014-09-15T22:40:10.151848 #15434]  INFO -- load: Loading new config
+I, [2014-09-15T22:40:43.198684 #15446]  INFO -- load: Loading new config
+I, [2014-09-15T22:44:19.062057 #15458]  INFO -- load: Loading new config
+I, [2014-09-15T22:47:45.596021 #15470]  INFO -- load: Loading new config
+I, [2014-09-15T22:50:05.367479 #15491]  INFO -- load: Loading new config
+I, [2014-09-15T22:53:38.897254 #15520]  INFO -- load: Loading new config
+I, [2014-09-15T22:56:11.165357 #15581]  INFO -- load: Loading new config
+I, [2014-09-15T23:00:19.522425 #15596]  INFO -- load: Loading new config
+I, [2014-09-15T23:01:23.209786 #15608]  INFO -- load: Loading new config
+I, [2014-09-15T23:01:43.909418 #15620]  INFO -- load: Loading new config
+I, [2014-09-15T23:03:09.342052 #15627]  INFO -- load: Loading new config
+I, [2014-09-15T23:03:43.138339 #15638]  INFO -- load: Loading new config
+I, [2014-09-15T23:05:17.533452 #15650]  INFO -- load: Loading new config
+I, [2014-09-15T23:06:23.344100 #15659]  INFO -- load: Loading new config
+I, [2014-09-15T23:06:45.419985 #15668]  INFO -- load: Loading new config
+I, [2014-09-15T23:08:56.339783 #15675]  INFO -- load: Loading new config
+I, [2014-09-15T23:09:29.563468 #15694]  INFO -- load: Loading new config
+I, [2014-09-15T23:10:00.045069 #15701]  INFO -- load: Loading new config
+I, [2014-09-15T23:12:29.725966 #15713]  INFO -- load: Loading new config
+I, [2014-09-15T23:15:12.315241 #15758]  INFO -- load: Loading new config
+I, [2014-09-15T23:15:40.756897 #15770]  INFO -- load: Loading new config
+I, [2014-09-15T23:16:15.013404 #15782]  INFO -- load: Loading new config
+I, [2014-09-15T23:18:23.949553 #15798]  INFO -- load: Loading new config
+I, [2014-09-15T23:19:01.654954 #15810]  INFO -- load: Loading new config
+I, [2014-09-15T23:19:47.765414 #15841]  INFO -- load: Loading new config
+I, [2014-09-15T23:20:48.866634 #15854]  INFO -- load: Loading new config
+I, [2014-09-15T23:24:58.943767 #15867]  INFO -- load: Loading new config
+I, [2014-09-15T23:26:04.916659 #15867]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-15T23:26:04.923287 #15867]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-15T23:26:04.923433 #15867]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-15T23:26:04.938892 #15867]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-15T23:26:04.953003 #15867]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-15T23:26:04.955453 #15867]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-15T23:26:04.957789 #15867]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-15T23:26:04.960003 #15867]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-15T23:26:04.962376 #15867]  INFO -- authentication: Authentication succesful
+I, [2014-09-15T23:30:53.252812 #15946]  INFO -- load: Loading new config
+I, [2014-09-15T23:31:20.892183 #15959]  INFO -- load: Loading new config
+I, [2014-09-15T23:31:59.138004 #15971]  INFO -- load: Loading new config
+I, [2014-09-15T23:32:27.307828 #15983]  INFO -- load: Loading new config
+I, [2014-09-15T23:33:13.829697 #15998]  INFO -- load: Loading new config
+I, [2014-09-15T23:34:37.643065 #16010]  INFO -- load: Loading new config
+I, [2014-09-15T23:36:34.446000 #16038]  INFO -- load: Loading new config
+I, [2014-09-15T23:37:38.453460 #16050]  INFO -- load: Loading new config
+I, [2014-09-15T23:38:34.516866 #16062]  INFO -- load: Loading new config
+I, [2014-09-15T23:39:01.277734 #16074]  INFO -- load: Loading new config
+I, [2014-09-15T23:39:29.748070 #16098]  INFO -- load: Loading new config
+I, [2014-09-15T23:41:00.903474 #16110]  INFO -- load: Loading new config
+I, [2014-09-15T23:41:22.506386 #16122]  INFO -- load: Loading new config
+I, [2014-09-15T23:42:36.858149 #16134]  INFO -- load: Loading new config
+I, [2014-09-15T23:44:10.432268 #16146]  INFO -- load: Loading new config
+I, [2014-09-15T23:44:34.140236 #16156]  INFO -- load: Loading new config
+I, [2014-09-15T23:46:06.712781 #16220]  INFO -- load: Loading new config
+I, [2014-09-15T23:47:36.293253 #16280]  INFO -- load: Loading new config
+I, [2014-09-15T23:48:48.245064 #16298]  INFO -- load: Loading new config
+I, [2014-09-15T23:49:54.235971 #16310]  INFO -- load: Loading new config
+I, [2014-09-15T23:50:21.371620 #16325]  INFO -- load: Loading new config
+I, [2014-09-15T23:50:40.766822 #16337]  INFO -- load: Loading new config
+I, [2014-09-15T23:51:48.911369 #16367]  INFO -- load: Loading new config
+I, [2014-09-15T23:53:01.161276 #16380]  INFO -- load: Loading new config
+I, [2014-09-16T07:15:59.849857 #16967]  INFO -- load: Loading new config
+I, [2014-09-16T07:20:27.565717 #17114]  INFO -- load: Loading new config
+I, [2014-09-16T07:22:15.445662 #17147]  INFO -- load: Loading new config
+I, [2014-09-16T07:23:07.667445 #17175]  INFO -- load: Loading new config
+I, [2014-09-16T07:23:37.934349 #17175]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-16T07:23:37.939531 #17175]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-16T07:23:37.939643 #17175]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-16T07:23:37.957431 #17175]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-16T07:23:37.965434 #17175]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-16T07:23:37.967976 #17175]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-16T07:23:37.970086 #17175]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T07:23:37.972367 #17175]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T07:23:37.974601 #17175]  INFO -- authentication: Authentication succesful
+I, [2014-09-16T07:25:10.371262 #17230]  INFO -- load: Loading new config
+I, [2014-09-16T07:27:16.274847 #17274]  INFO -- load: Loading new config
+I, [2014-09-16T07:28:51.573760 #17337]  INFO -- load: Loading new config
+I, [2014-09-16T10:09:26.251136 #17676]  INFO -- load: Loading new config
+I, [2014-09-16T10:09:46.564347 #17693]  INFO -- load: Loading new config
+I, [2014-09-16T10:18:41.082666 #17718]  INFO -- load: Loading new config
+I, [2014-09-16T10:19:37.501374 #17747]  INFO -- load: Loading new config
+I, [2014-09-16T11:01:11.940926 #17773]  INFO -- load: Loading new config
+I, [2014-09-16T11:01:43.180235 #17784]  INFO -- load: Loading new config
+I, [2014-09-16T11:01:57.032830 #17788]  INFO -- load: Loading new config
+I, [2014-09-16T11:02:18.454974 #17798]  INFO -- load: Loading new config
+I, [2014-09-16T11:11:31.699891 #17822]  INFO -- load: Loading new config
+I, [2014-09-16T11:12:04.179235 #17830]  INFO -- load: Loading new config
+I, [2014-09-16T11:12:26.373017 #17837]  INFO -- load: Loading new config
+I, [2014-09-16T11:13:05.171852 #17844]  INFO -- load: Loading new config
+I, [2014-09-16T11:18:06.000185 #17854]  INFO -- load: Loading new config
+I, [2014-09-16T11:18:33.089010 #17861]  INFO -- load: Loading new config
+I, [2014-09-16T11:18:57.678518 #17873]  INFO -- load: Loading new config
+I, [2014-09-16T11:20:56.454655 #17885]  INFO -- load: Loading new config
+I, [2014-09-16T11:21:45.423568 #17900]  INFO -- load: Loading new config
+I, [2014-09-16T11:22:13.814138 #17911]  INFO -- load: Loading new config
+I, [2014-09-16T11:23:05.716693 #17915]  INFO -- load: Loading new config
+I, [2014-09-16T11:23:09.608722 #17917]  INFO -- load: Loading new config
+I, [2014-09-16T11:25:38.263433 #17939]  INFO -- load: Loading new config
+I, [2014-09-16T11:48:14.768218 #18146]  INFO -- load: Loading new config
+I, [2014-09-16T11:50:20.271944 #18185]  INFO -- load: Loading new config
+I, [2014-09-16T11:50:32.537410 #18196]  INFO -- load: Loading new config
+I, [2014-09-16T11:50:50.511982 #18208]  INFO -- load: Loading new config
+I, [2014-09-16T11:50:56.819548 #18212]  INFO -- load: Loading new config
+I, [2014-09-16T11:52:45.648145 #18224]  INFO -- load: Loading new config
+I, [2014-09-16T11:52:55.759035 #18224]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-16T11:52:55.764811 #18224]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-16T11:52:55.764951 #18224]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-16T11:52:55.781154 #18224]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-16T11:52:55.797885 #18224]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-16T11:52:55.800557 #18224]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-16T11:52:55.802710 #18224]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T11:52:55.804806 #18224]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T11:52:55.806956 #18224]  INFO -- authentication: Authentication succesful
+I, [2014-09-16T11:56:50.425502 #18315]  INFO -- load: Loading new config
+I, [2014-09-16T11:57:45.524851 #18328]  INFO -- load: Loading new config
+I, [2014-09-16T12:38:32.100829 #18379]  INFO -- load: Loading new config
+I, [2014-09-16T12:39:10.949813 #18404]  INFO -- load: Loading new config
+I, [2014-09-16T12:39:47.136650 #18416]  INFO -- load: Loading new config
+I, [2014-09-16T12:43:52.502945 #18465]  INFO -- load: Loading new config
+I, [2014-09-16T12:51:54.160695 #18476]  INFO -- load: Loading new config
+I, [2014-09-16T12:55:06.278535 #18519]  INFO -- load: Loading new config
+I, [2014-09-16T12:55:27.189323 #18519]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-16T12:55:27.194361 #18519]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-16T12:55:27.194562 #18519]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-16T12:55:27.207271 #18519]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-16T12:55:27.214744 #18519]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-16T12:55:27.217255 #18519]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-16T12:55:27.219601 #18519]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T12:55:27.221702 #18519]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T12:55:27.223773 #18519]  INFO -- authentication: Authentication succesful
+I, [2014-09-16T12:57:45.922874 #18559]  INFO -- load: Loading new config
+I, [2014-09-16T12:57:57.124340 #18559]  INFO -- authentication: Attempting to authenticate as 
+I, [2014-09-16T12:57:57.124559 #18559]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-16T12:57:58.429069 #18559]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-16T12:57:58.433241 #18559]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-16T12:57:58.433337 #18559]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-16T12:57:58.442669 #18559]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-16T12:57:58.451558 #18559]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-16T12:57:58.453888 #18559]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-16T12:57:58.456042 #18559]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T12:57:58.457975 #18559]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T12:57:58.460014 #18559]  INFO -- authentication: Authentication succesful
+I, [2014-09-16T12:59:01.485286 #18573]  INFO -- load: Loading new config
+I, [2014-09-16T12:59:13.496835 #18573]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-16T12:59:13.500940 #18573]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-16T12:59:13.501088 #18573]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-16T12:59:13.510896 #18573]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-16T12:59:13.519255 #18573]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-16T12:59:13.521595 #18573]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-16T12:59:13.523712 #18573]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T12:59:13.525725 #18573]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T12:59:13.527804 #18573]  INFO -- authentication: Authentication succesful
+I, [2014-09-16T13:32:13.299746 #18915]  INFO -- load: Loading new config
+I, [2014-09-16T13:32:59.064727 #18927]  INFO -- load: Loading new config
+I, [2014-09-16T13:34:22.396914 #18939]  INFO -- load: Loading new config
+I, [2014-09-16T13:35:56.128285 #18993]  INFO -- load: Loading new config
+I, [2014-09-16T13:36:00.770550 #18993]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-16T13:36:00.775432 #18993]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-16T13:36:00.775574 #18993]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-16T13:36:00.792257 #18993]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-16T13:36:00.801252 #18993]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-16T13:36:00.803765 #18993]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-16T13:36:00.806143 #18993]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T13:36:00.808305 #18993]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T13:36:00.810488 #18993]  INFO -- authentication: Authentication succesful
+I, [2014-09-16T13:37:04.418516 #19027]  INFO -- load: Loading new config
+I, [2014-09-16T13:37:53.626503 #19039]  INFO -- load: Loading new config
+I, [2014-09-16T13:40:57.117521 #19063]  INFO -- load: Loading new config
+I, [2014-09-16T13:45:23.892950 #19149]  INFO -- load: Loading new config
+I, [2014-09-16T13:48:07.257211 #19161]  INFO -- load: Loading new config
+I, [2014-09-16T13:49:01.273826 #19173]  INFO -- load: Loading new config
+I, [2014-09-16T13:51:08.178348 #19206]  INFO -- load: Loading new config
+I, [2014-09-16T13:54:42.063487 #19256]  INFO -- load: Loading new config
+I, [2014-09-16T13:56:09.819131 #19268]  INFO -- load: Loading new config
+I, [2014-09-16T13:56:50.160019 #19276]  INFO -- load: Loading new config
+I, [2014-09-16T14:00:52.777756 #19323]  INFO -- load: Loading new config
+I, [2014-09-16T14:05:39.626288 #19336]  INFO -- load: Loading new config
+I, [2014-09-16T14:13:47.679745 #19362]  INFO -- load: Loading new config
+I, [2014-09-16T14:15:20.152462 #19374]  INFO -- load: Loading new config
+I, [2014-09-16T14:17:11.576302 #19389]  INFO -- load: Loading new config
+I, [2014-09-16T14:19:46.806971 #19402]  INFO -- load: Loading new config
+I, [2014-09-16T14:22:58.089962 #19424]  INFO -- load: Loading new config
+I, [2014-09-16T14:26:55.606662 #19441]  INFO -- load: Loading new config
+I, [2014-09-16T14:28:47.649373 #19453]  INFO -- load: Loading new config
+I, [2014-09-16T14:29:42.739771 #19465]  INFO -- load: Loading new config
+I, [2014-09-16T14:30:11.609584 #19477]  INFO -- load: Loading new config
+I, [2014-09-16T14:30:58.829741 #19489]  INFO -- load: Loading new config
+I, [2014-09-16T14:31:54.232302 #19501]  INFO -- load: Loading new config
+I, [2014-09-16T14:32:15.386815 #19501]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-16T14:32:15.398789 #19501]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-16T14:32:15.398965 #19501]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-16T14:32:15.410715 #19501]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-16T14:32:15.419532 #19501]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-16T14:32:15.421929 #19501]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-16T14:32:15.424051 #19501]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T14:32:15.426048 #19501]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T14:32:15.428244 #19501]  INFO -- authentication: Authentication succesful
+I, [2014-09-16T14:39:35.158903 #19535]  INFO -- load: Loading new config
+I, [2014-09-16T14:40:57.016678 #19547]  INFO -- load: Loading new config
+I, [2014-09-16T14:42:50.664167 #19560]  INFO -- load: Loading new config
+I, [2014-09-16T14:43:48.371533 #19573]  INFO -- load: Loading new config
+I, [2014-09-16T20:09:49.480522 #20096]  INFO -- load: Loading new config
+I, [2014-09-16T20:09:58.356569 #20096]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-16T20:09:58.363441 #20096]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-16T20:09:58.363786 #20096]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-16T20:09:58.418919 #20096]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-16T20:09:58.438528 #20096]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-16T20:09:58.444125 #20096]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-16T20:09:58.449553 #20096]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T20:09:58.454551 #20096]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-16T20:09:58.459263 #20096]  INFO -- authentication: Authentication succesful
+I, [2014-09-16T20:14:41.112984 #20126]  INFO -- load: Loading new config
+I, [2014-09-16T20:21:39.599903 #20143]  INFO -- load: Loading new config
+I, [2014-09-16T20:23:28.937066 #20155]  INFO -- load: Loading new config
+I, [2014-09-16T20:25:41.601763 #20210]  INFO -- load: Loading new config
+I, [2014-09-16T20:58:29.823663 #20282]  INFO -- load: Loading new config
+I, [2014-09-16T21:41:07.705200 #20401]  INFO -- load: Loading new config
+I, [2014-09-16T21:54:29.933706 #20493]  INFO -- load: Loading new config
+I, [2014-09-16T22:05:54.194039 #20592]  INFO -- load: Loading new config
+I, [2014-09-16T22:08:46.137935 #20610]  INFO -- load: Loading new config
+I, [2014-09-16T22:10:27.955211 #20667]  INFO -- load: Loading new config
+I, [2014-09-16T22:12:18.663752 #20703]  INFO -- load: Loading new config
+I, [2014-09-16T22:20:41.563918 #20711]  INFO -- load: Loading new config
+I, [2014-09-16T22:23:19.958249 #20728]  INFO -- load: Loading new config
+I, [2014-09-16T22:24:06.093662 #20737]  INFO -- load: Loading new config
+I, [2014-09-16T22:25:40.131562 #20749]  INFO -- load: Loading new config
+I, [2014-09-16T22:42:02.718450 #20773]  INFO -- load: Loading new config
+I, [2014-09-16T22:42:47.807963 #20785]  INFO -- load: Loading new config
+I, [2014-09-16T22:53:54.647660 #20839]  INFO -- load: Loading new config
+I, [2014-09-16T22:57:06.312953 #20892]  INFO -- load: Loading new config
+I, [2014-09-16T22:57:44.593358 #20904]  INFO -- load: Loading new config
+I, [2014-09-16T22:58:07.353255 #20916]  INFO -- load: Loading new config
+I, [2014-09-16T23:00:22.443758 #20928]  INFO -- load: Loading new config
+I, [2014-09-16T23:02:08.375134 #20957]  INFO -- load: Loading new config
+I, [2014-09-16T23:02:48.547585 #20969]  INFO -- load: Loading new config
+I, [2014-09-16T23:08:23.514054 #21018]  INFO -- load: Loading new config
+I, [2014-09-16T23:15:49.191637 #21161]  INFO -- load: Loading new config
+I, [2014-09-16T23:20:38.500687 #21192]  INFO -- load: Loading new config
+I, [2014-09-16T23:21:23.836441 #21219]  INFO -- load: Loading new config
+I, [2014-09-16T23:24:18.271390 #21256]  INFO -- load: Loading new config
+I, [2014-09-16T23:27:31.488794 #21294]  INFO -- load: Loading new config
+I, [2014-09-16T23:27:50.107564 #21306]  INFO -- load: Loading new config
+I, [2014-09-16T23:28:26.553060 #21318]  INFO -- load: Loading new config
+I, [2014-09-16T23:29:39.943839 #21339]  INFO -- load: Loading new config
+I, [2014-09-16T23:31:41.710593 #21351]  INFO -- load: Loading new config
+I, [2014-09-16T23:32:31.317388 #21363]  INFO -- load: Loading new config
+I, [2014-09-16T23:33:19.727991 #21383]  INFO -- load: Loading new config
+I, [2014-09-16T23:35:40.268376 #21429]  INFO -- load: Loading new config
+I, [2014-09-16T23:36:46.184273 #21436]  INFO -- load: Loading new config
+I, [2014-09-16T23:37:02.214044 #21448]  INFO -- load: Loading new config
+I, [2014-09-16T23:37:57.982308 #21460]  INFO -- load: Loading new config
+I, [2014-09-16T23:38:48.370160 #21472]  INFO -- load: Loading new config
+I, [2014-09-17T17:20:19.161392 #22501]  INFO -- load: Loading new config
+I, [2014-09-17T17:20:44.149809 #22501]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-17T17:20:44.157088 #22501]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-17T17:20:44.157251 #22501]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-17T17:20:44.175505 #22501]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-17T17:20:44.208887 #22501]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-17T17:20:44.211377 #22501]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-17T17:20:44.213516 #22501]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-17T17:20:44.216907 #22501]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-17T17:20:44.219545 #22501]  INFO -- authentication: Authentication succesful
+I, [2014-09-17T17:29:21.366126 #22566]  INFO -- load: Loading new config
+I, [2014-09-17T17:30:01.138336 #22579]  INFO -- load: Loading new config
+I, [2014-09-17T17:31:44.925219 #22616]  INFO -- load: Loading new config
+I, [2014-09-17T17:32:56.397279 #22638]  INFO -- load: Loading new config
+I, [2014-09-17T17:35:45.042499 #22656]  INFO -- load: Loading new config
+I, [2014-09-17T17:36:26.053243 #22668]  INFO -- load: Loading new config
+I, [2014-09-17T17:38:55.354276 #22698]  INFO -- load: Loading new config
+I, [2014-09-17T17:39:38.465178 #22721]  INFO -- load: Loading new config
+I, [2014-09-17T17:41:30.397602 #22732]  INFO -- load: Loading new config
+I, [2014-09-17T17:42:33.465888 #22741]  INFO -- load: Loading new config
+I, [2014-09-17T17:43:10.626106 #22753]  INFO -- load: Loading new config
+I, [2014-09-17T17:43:47.297232 #22766]  INFO -- load: Loading new config
+I, [2014-09-17T17:46:05.659168 #22778]  INFO -- load: Loading new config
+I, [2014-09-17T17:54:24.066231 #22843]  INFO -- load: Loading new config
+I, [2014-09-17T17:54:59.367459 #22855]  INFO -- load: Loading new config
+I, [2014-09-17T17:56:37.385946 #22886]  INFO -- load: Loading new config
+I, [2014-09-17T17:57:02.271812 #22897]  INFO -- load: Loading new config
+I, [2014-09-17T17:57:28.503919 #22909]  INFO -- load: Loading new config
+I, [2014-09-17T17:58:56.072462 #22921]  INFO -- load: Loading new config
+I, [2014-09-17T17:59:25.857737 #22933]  INFO -- load: Loading new config
+I, [2014-09-17T18:01:42.348483 #22954]  INFO -- load: Loading new config
+I, [2014-09-17T18:02:47.071124 #22975]  INFO -- load: Loading new config
+I, [2014-09-17T18:03:12.080100 #22987]  INFO -- load: Loading new config
+I, [2014-09-17T18:04:09.991839 #23008]  INFO -- load: Loading new config
+I, [2014-09-17T18:05:18.995848 #23016]  INFO -- load: Loading new config
+I, [2014-09-17T18:06:03.303046 #23037]  INFO -- load: Loading new config
+I, [2014-09-17T18:06:34.675741 #23049]  INFO -- load: Loading new config
+I, [2014-09-17T18:12:35.218853 #23068]  INFO -- load: Loading new config
+I, [2014-09-17T18:13:48.092653 #23080]  INFO -- load: Loading new config
+I, [2014-09-17T18:14:42.170772 #23092]  INFO -- load: Loading new config
+I, [2014-09-17T18:15:30.936979 #23104]  INFO -- load: Loading new config
+I, [2014-09-17T18:16:42.960390 #23116]  INFO -- load: Loading new config
+I, [2014-09-17T18:17:26.607705 #23127]  INFO -- load: Loading new config
+I, [2014-09-17T18:17:43.470922 #23135]  INFO -- load: Loading new config
+I, [2014-09-17T18:18:40.933093 #23143]  INFO -- load: Loading new config
+I, [2014-09-17T18:20:09.574688 #23150]  INFO -- load: Loading new config
+I, [2014-09-17T18:34:12.249986 #23164]  INFO -- load: Loading new config
+I, [2014-09-17T18:39:13.527932 #23188]  INFO -- load: Loading new config
+I, [2014-09-17T18:39:32.259568 #23196]  INFO -- load: Loading new config
+I, [2014-09-17T18:40:41.631278 #23205]  INFO -- load: Loading new config
+I, [2014-09-17T18:58:12.938758 #23215]  INFO -- load: Loading new config
+I, [2014-09-17T19:00:23.222868 #23227]  INFO -- load: Loading new config
+I, [2014-09-17T19:02:46.717906 #23239]  INFO -- load: Loading new config
+I, [2014-09-17T19:03:07.196676 #23247]  INFO -- load: Loading new config
+I, [2014-09-17T19:04:14.851858 #23259]  INFO -- load: Loading new config
+I, [2014-09-17T19:04:48.898446 #23267]  INFO -- load: Loading new config
+I, [2014-09-17T19:07:02.103736 #23276]  INFO -- load: Loading new config
+I, [2014-09-17T19:10:52.355717 #23296]  INFO -- load: Loading new config
+I, [2014-09-17T19:14:32.019428 #23304]  INFO -- load: Loading new config
+I, [2014-09-17T19:14:50.290958 #23312]  INFO -- load: Loading new config
+I, [2014-09-17T19:15:31.663654 #23321]  INFO -- load: Loading new config
+I, [2014-09-17T19:17:40.242426 #23338]  INFO -- load: Loading new config
+I, [2014-09-17T19:21:22.055599 #23351]  INFO -- load: Loading new config
+I, [2014-09-17T19:26:02.170757 #23373]  INFO -- load: Loading new config
+I, [2014-09-17T19:26:30.681406 #23381]  INFO -- load: Loading new config
+I, [2014-09-17T19:27:02.902828 #23393]  INFO -- load: Loading new config
+I, [2014-09-17T19:27:55.267512 #23405]  INFO -- load: Loading new config
+I, [2014-09-17T19:28:29.831877 #23417]  INFO -- load: Loading new config
+I, [2014-09-17T19:28:49.863405 #23429]  INFO -- load: Loading new config
+I, [2014-09-17T19:29:34.261218 #23441]  INFO -- load: Loading new config
+I, [2014-09-17T19:30:18.175025 #23462]  INFO -- load: Loading new config
+I, [2014-09-17T19:30:59.556495 #23476]  INFO -- load: Loading new config
+I, [2014-09-17T19:31:33.459662 #23490]  INFO -- load: Loading new config
+I, [2014-09-17T19:31:58.465194 #23499]  INFO -- load: Loading new config
+I, [2014-09-17T19:32:17.182099 #23510]  INFO -- load: Loading new config
+I, [2014-09-17T19:32:46.919927 #23517]  INFO -- load: Loading new config
+I, [2014-09-17T19:33:03.605349 #23526]  INFO -- load: Loading new config
+I, [2014-09-17T19:33:27.084435 #23538]  INFO -- load: Loading new config
+I, [2014-09-17T19:34:03.044595 #23550]  INFO -- load: Loading new config
+I, [2014-09-17T19:35:22.914305 #23562]  INFO -- load: Loading new config
+I, [2014-09-17T19:35:51.389206 #23574]  INFO -- load: Loading new config
+I, [2014-09-17T19:36:14.110522 #23586]  INFO -- load: Loading new config
+I, [2014-09-17T19:36:57.090383 #23598]  INFO -- load: Loading new config
+I, [2014-09-17T19:38:55.956853 #23610]  INFO -- load: Loading new config
+I, [2014-09-17T19:39:55.826106 #23635]  INFO -- load: Loading new config
+I, [2014-09-17T19:41:01.524183 #23666]  INFO -- load: Loading new config
+I, [2014-09-17T19:41:54.409158 #23688]  INFO -- load: Loading new config
+I, [2014-09-17T19:55:42.693880 #23783]  INFO -- load: Loading new config
+I, [2014-09-17T19:56:44.355754 #23794]  INFO -- load: Loading new config
+I, [2014-09-17T19:57:04.111670 #23801]  INFO -- load: Loading new config
+I, [2014-09-17T19:57:22.516126 #23809]  INFO -- load: Loading new config
+I, [2014-09-17T19:57:42.126839 #23816]  INFO -- load: Loading new config
+I, [2014-09-17T19:58:04.417472 #23831]  INFO -- load: Loading new config
+I, [2014-09-17T20:00:18.601914 #23848]  INFO -- load: Loading new config
+I, [2014-09-17T20:01:02.722339 #23857]  INFO -- load: Loading new config
+I, [2014-09-17T20:02:17.637681 #23869]  INFO -- load: Loading new config
+I, [2014-09-17T20:02:51.046048 #23881]  INFO -- load: Loading new config
+I, [2014-09-17T20:03:30.277766 #23893]  INFO -- load: Loading new config
+I, [2014-09-17T20:04:15.873682 #23905]  INFO -- load: Loading new config
+I, [2014-09-17T20:04:40.135419 #23917]  INFO -- load: Loading new config
+I, [2014-09-17T20:05:12.662287 #23929]  INFO -- load: Loading new config
+I, [2014-09-17T20:05:36.511853 #23941]  INFO -- load: Loading new config
+I, [2014-09-17T20:06:49.958400 #23953]  INFO -- load: Loading new config
+I, [2014-09-17T20:07:49.846313 #23965]  INFO -- load: Loading new config
+I, [2014-09-17T20:08:36.662675 #23977]  INFO -- load: Loading new config
+I, [2014-09-17T20:09:31.695858 #24006]  INFO -- load: Loading new config
+I, [2014-09-17T20:10:24.130644 #24018]  INFO -- load: Loading new config
+I, [2014-09-17T20:12:10.070554 #24043]  INFO -- load: Loading new config
+I, [2014-09-17T20:13:18.317442 #24063]  INFO -- load: Loading new config
+I, [2014-09-17T20:15:17.511770 #24127]  INFO -- load: Loading new config
+I, [2014-09-17T20:17:44.649042 #24144]  INFO -- load: Loading new config
+I, [2014-09-17T20:18:14.405705 #24162]  INFO -- load: Loading new config
+I, [2014-09-17T20:19:47.931747 #24175]  INFO -- load: Loading new config
+I, [2014-09-17T20:21:47.259764 #24252]  INFO -- load: Loading new config
+I, [2014-09-17T20:23:12.916678 #24281]  INFO -- load: Loading new config
+I, [2014-09-17T20:23:59.120556 #24293]  INFO -- load: Loading new config
+I, [2014-09-18T08:38:38.019948 #24995]  INFO -- load: Loading new config
+I, [2014-09-18T08:44:32.863452 #25045]  INFO -- load: Loading new config
+I, [2014-09-18T08:44:53.930716 #25057]  INFO -- load: Loading new config
+I, [2014-09-18T08:46:25.063558 #25069]  INFO -- load: Loading new config
+I, [2014-09-18T08:46:40.461110 #25081]  INFO -- load: Loading new config
+I, [2014-09-18T08:49:57.285906 #25093]  INFO -- load: Loading new config
+I, [2014-09-18T08:50:19.343235 #25106]  INFO -- load: Loading new config
+I, [2014-09-18T08:50:25.740411 #25106]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T08:50:25.747075 #25106]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-18T08:50:25.747185 #25106]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-18T08:50:25.761105 #25106]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-18T08:50:25.780731 #25106]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-18T08:50:25.783248 #25106]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-18T08:50:25.785446 #25106]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T08:50:25.787622 #25106]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T08:50:25.800623 #25106]  INFO -- authentication: Authentication succesful
+I, [2014-09-18T08:50:32.539901 #25106]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T08:50:32.735012 #25106]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T08:50:53.184886 #25106]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T08:50:53.193620 #25106]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T08:52:17.088741 #25157]  INFO -- load: Loading new config
+I, [2014-09-18T08:54:09.272827 #25202]  INFO -- load: Loading new config
+I, [2014-09-18T08:57:06.636105 #25235]  INFO -- load: Loading new config
+I, [2014-09-18T08:58:25.275072 #25247]  INFO -- load: Loading new config
+I, [2014-09-18T08:58:34.798953 #25247]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T08:58:34.829018 #25247]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T08:59:16.654875 #25260]  INFO -- load: Loading new config
+I, [2014-09-18T08:59:43.331289 #25263]  INFO -- load: Loading new config
+I, [2014-09-18T08:59:47.019025 #25265]  INFO -- load: Loading new config
+I, [2014-09-18T09:00:01.234103 #25265]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T09:00:01.244032 #25265]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T09:00:38.127709 #25278]  INFO -- load: Loading new config
+I, [2014-09-18T09:00:52.517083 #25278]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T09:00:52.525546 #25278]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T09:05:54.113140 #25292]  INFO -- load: Loading new config
+I, [2014-09-18T09:06:32.184402 #25292]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T09:06:32.211374 #25292]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T09:07:10.864345 #25314]  INFO -- load: Loading new config
+I, [2014-09-18T09:08:03.402170 #25314]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T09:08:03.426503 #25314]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T10:05:21.030138 #25314]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T10:05:21.178223 #25314]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T10:09:47.452298 #25374]  INFO -- load: Loading new config
+I, [2014-09-18T10:10:09.699440 #25374]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T10:10:09.720480 #25374]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T10:10:18.251014 #25374]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T10:10:18.257187 #25374]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T10:10:23.613228 #25374]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T10:10:23.633923 #25374]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-18T10:10:23.634107 #25374]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-18T10:10:23.645736 #25374]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-18T10:10:23.657862 #25374]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-18T10:10:23.660377 #25374]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-18T10:10:23.662425 #25374]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T10:10:23.664526 #25374]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T10:10:23.666700 #25374]  INFO -- authentication: Authentication succesful
+I, [2014-09-18T10:13:56.053717 #25477]  INFO -- load: Loading new config
+I, [2014-09-18T10:14:07.751993 #25477]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T10:14:07.770265 #25477]  INFO -- authentication: Authentication failed (RuntimeError)
+I, [2014-09-18T10:14:13.611036 #25477]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T10:14:13.615649 #25477]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-18T10:14:13.615789 #25477]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-18T10:14:13.625455 #25477]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-18T10:14:13.644820 #25477]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-18T10:14:13.647211 #25477]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-18T10:14:13.649162 #25477]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T10:14:13.651130 #25477]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T10:14:13.653133 #25477]  INFO -- authentication: Authentication succesful
+I, [2014-09-18T10:15:10.966128 #25512]  INFO -- load: Loading new config
+I, [2014-09-18T10:51:12.165092 #25594]  INFO -- load: Loading new config
+I, [2014-09-18T10:52:11.535468 #25613]  INFO -- load: Loading new config
+I, [2014-09-18T14:08:47.970607 #25908]  INFO -- load: Loading new config
+I, [2014-09-18T14:09:09.565234 #25932]  INFO -- load: Loading new config
+I, [2014-09-18T14:09:27.374862 #25944]  INFO -- load: Loading new config
+I, [2014-09-18T14:09:53.482028 #25956]  INFO -- load: Loading new config
+I, [2014-09-18T14:11:21.853891 #25970]  INFO -- load: Loading new config
+I, [2014-09-18T14:22:31.317245 #26076]  INFO -- load: Loading new config
+I, [2014-09-18T14:25:54.396072 #26088]  INFO -- load: Loading new config
+I, [2014-09-18T14:26:01.406701 #26088]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T14:26:01.410893 #26088]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-18T14:26:01.411018 #26088]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-18T14:26:01.425502 #26088]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-18T14:26:01.432864 #26088]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-18T14:26:01.435141 #26088]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-18T14:26:01.437122 #26088]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T14:26:01.439290 #26088]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T14:26:01.441303 #26088]  INFO -- authentication: Authentication succesful
+I, [2014-09-18T14:26:49.274917 #26102]  INFO -- load: Loading new config
+I, [2014-09-18T14:27:20.214397 #26114]  INFO -- load: Loading new config
+I, [2014-09-18T14:27:47.279089 #26126]  INFO -- load: Loading new config
+I, [2014-09-18T14:28:47.173681 #26138]  INFO -- load: Loading new config
+I, [2014-09-18T14:30:27.388673 #26150]  INFO -- load: Loading new config
+I, [2014-09-18T14:31:47.308417 #26162]  INFO -- load: Loading new config
+I, [2014-09-18T21:32:29.366491 #26601]  INFO -- load: Loading new config
+I, [2014-09-18T21:33:02.436543 #26624]  INFO -- load: Loading new config
+I, [2014-09-18T21:33:15.449297 #26624]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T21:33:15.489815 #26624]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-18T21:33:15.489939 #26624]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-18T21:33:15.526156 #26624]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-18T21:33:15.551694 #26624]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-18T21:33:15.555108 #26624]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-18T21:33:15.557627 #26624]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T21:33:15.559800 #26624]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T21:33:15.563365 #26624]  INFO -- authentication: Authentication succesful
+I, [2014-09-18T21:34:04.448777 #26639]  INFO -- load: Loading new config
+I, [2014-09-18T21:34:47.392989 #26651]  INFO -- load: Loading new config
+I, [2014-09-18T21:35:33.191179 #26663]  INFO -- load: Loading new config
+I, [2014-09-18T21:40:15.754029 #26706]  INFO -- load: Loading new config
+I, [2014-09-18T21:44:03.780629 #26718]  INFO -- load: Loading new config
+I, [2014-09-18T21:44:22.458550 #26730]  INFO -- load: Loading new config
+I, [2014-09-18T21:48:06.166748 #26742]  INFO -- load: Loading new config
+I, [2014-09-18T21:48:44.176362 #26754]  INFO -- load: Loading new config
+I, [2014-09-18T21:49:53.682432 #26766]  INFO -- load: Loading new config
+I, [2014-09-18T21:51:08.107879 #26777]  INFO -- load: Loading new config
+I, [2014-09-18T21:51:26.540056 #26788]  INFO -- load: Loading new config
+I, [2014-09-18T21:52:24.916607 #26805]  INFO -- load: Loading new config
+I, [2014-09-18T21:53:26.021193 #26821]  INFO -- load: Loading new config
+I, [2014-09-18T21:54:01.142585 #26833]  INFO -- load: Loading new config
+I, [2014-09-18T21:54:24.314739 #26845]  INFO -- load: Loading new config
+I, [2014-09-18T21:54:59.862792 #26874]  INFO -- load: Loading new config
+I, [2014-09-18T21:55:27.941570 #26886]  INFO -- load: Loading new config
+I, [2014-09-18T21:56:25.410687 #26899]  INFO -- load: Loading new config
+I, [2014-09-18T21:57:57.288446 #26915]  INFO -- load: Loading new config
+I, [2014-09-18T21:58:28.288687 #26922]  INFO -- load: Loading new config
+I, [2014-09-18T21:59:32.524219 #26934]  INFO -- load: Loading new config
+I, [2014-09-18T21:59:53.422635 #26946]  INFO -- load: Loading new config
+I, [2014-09-18T22:00:09.617732 #26958]  INFO -- load: Loading new config
+I, [2014-09-18T22:02:11.312078 #26975]  INFO -- load: Loading new config
+I, [2014-09-18T22:02:51.565102 #26987]  INFO -- load: Loading new config
+I, [2014-09-18T22:03:17.259678 #26999]  INFO -- load: Loading new config
+I, [2014-09-18T22:03:33.689319 #27011]  INFO -- load: Loading new config
+I, [2014-09-18T22:03:53.216289 #27023]  INFO -- load: Loading new config
+I, [2014-09-18T22:07:57.320299 #27035]  INFO -- load: Loading new config
+I, [2014-09-18T22:08:14.204037 #27047]  INFO -- load: Loading new config
+I, [2014-09-18T22:08:27.197785 #27058]  INFO -- load: Loading new config
+I, [2014-09-18T22:08:54.981490 #27070]  INFO -- load: Loading new config
+I, [2014-09-18T22:09:17.586445 #27094]  INFO -- load: Loading new config
+I, [2014-09-18T22:10:47.569209 #27106]  INFO -- load: Loading new config
+I, [2014-09-18T22:13:39.747160 #27118]  INFO -- load: Loading new config
+I, [2014-09-18T22:14:45.300334 #27130]  INFO -- load: Loading new config
+I, [2014-09-18T22:15:22.626094 #27142]  INFO -- load: Loading new config
+I, [2014-09-18T22:15:47.525265 #27154]  INFO -- load: Loading new config
+I, [2014-09-18T22:16:35.085239 #27166]  INFO -- load: Loading new config
+I, [2014-09-18T22:16:56.372731 #27178]  INFO -- load: Loading new config
+I, [2014-09-18T22:19:23.474106 #27210]  INFO -- load: Loading new config
+I, [2014-09-18T22:19:43.414395 #27222]  INFO -- load: Loading new config
+I, [2014-09-18T22:22:06.621208 #27234]  INFO -- load: Loading new config
+I, [2014-09-18T22:25:51.727018 #27251]  INFO -- load: Loading new config
+I, [2014-09-18T22:26:23.390183 #27263]  INFO -- load: Loading new config
+I, [2014-09-18T22:27:31.954707 #27276]  INFO -- load: Loading new config
+I, [2014-09-18T22:28:30.486871 #27288]  INFO -- load: Loading new config
+I, [2014-09-18T22:32:39.005668 #27308]  INFO -- load: Loading new config
+I, [2014-09-18T22:36:40.055124 #27340]  INFO -- load: Loading new config
+I, [2014-09-18T22:37:57.512369 #27354]  INFO -- load: Loading new config
+I, [2014-09-18T22:38:10.402180 #27354]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T22:38:10.408432 #27354]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-18T22:38:10.408626 #27354]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-18T22:38:10.439660 #27354]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-18T22:38:10.446567 #27354]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-18T22:38:10.448834 #27354]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-18T22:38:10.451049 #27354]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T22:38:10.452982 #27354]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T22:38:10.454923 #27354]  INFO -- authentication: Authentication succesful
+I, [2014-09-18T22:39:16.335382 #27399]  INFO -- load: Loading new config
+I, [2014-09-18T22:40:32.586808 #27421]  INFO -- load: Loading new config
+I, [2014-09-18T22:55:33.298809 #27527]  INFO -- load: Loading new config
+I, [2014-09-18T22:55:50.808927 #27539]  INFO -- load: Loading new config
+I, [2014-09-18T22:56:18.869344 #27549]  INFO -- load: Loading new config
+I, [2014-09-18T23:01:00.717562 #27600]  INFO -- load: Loading new config
+I, [2014-09-18T23:01:57.169725 #27612]  INFO -- load: Loading new config
+I, [2014-09-18T23:04:16.882781 #27624]  INFO -- load: Loading new config
+I, [2014-09-18T23:07:02.522988 #27636]  INFO -- load: Loading new config
+I, [2014-09-18T23:09:32.257773 #27660]  INFO -- load: Loading new config
+I, [2014-09-18T23:12:02.446867 #27672]  INFO -- load: Loading new config
+I, [2014-09-18T23:12:55.393183 #27701]  INFO -- load: Loading new config
+I, [2014-09-18T23:14:57.788607 #27716]  INFO -- load: Loading new config
+I, [2014-09-18T23:15:32.382167 #27728]  INFO -- load: Loading new config
+I, [2014-09-18T23:18:14.461375 #27759]  INFO -- load: Loading new config
+I, [2014-09-18T23:24:16.954582 #27771]  INFO -- load: Loading new config
+I, [2014-09-18T23:25:10.909495 #27787]  INFO -- load: Loading new config
+I, [2014-09-18T23:25:36.904942 #27799]  INFO -- load: Loading new config
+I, [2014-09-18T23:26:14.016674 #27811]  INFO -- load: Loading new config
+I, [2014-09-18T23:26:43.917618 #27823]  INFO -- load: Loading new config
+I, [2014-09-18T23:27:01.115707 #27834]  INFO -- load: Loading new config
+I, [2014-09-18T23:27:48.548589 #27846]  INFO -- load: Loading new config
+I, [2014-09-18T23:28:11.625578 #27858]  INFO -- load: Loading new config
+I, [2014-09-18T23:29:38.081398 #27873]  INFO -- load: Loading new config
+I, [2014-09-18T23:29:49.463185 #27873]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-18T23:29:49.468296 #27873]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-18T23:29:49.468404 #27873]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-18T23:29:49.484730 #27873]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-18T23:29:49.492690 #27873]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-18T23:29:49.495102 #27873]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-18T23:29:49.497413 #27873]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T23:29:49.499754 #27873]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T23:29:49.501782 #27873]  INFO -- authentication: Authentication succesful
+I, [2014-09-18T23:30:19.913439 #27873]  INFO -- authentication: Attempting to authenticate as stronj
+I, [2014-09-18T23:30:19.916637 #27873]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = stronj
+I, [2014-09-18T23:30:19.920482 #27873]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-18T23:30:19.927263 #27873]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-18T23:30:19.929626 #27873]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-18T23:30:19.931758 #27873]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T23:30:19.933730 #27873]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-18T23:30:19.935831 #27873]  INFO -- authentication: Authentication succesful
+I, [2014-09-18T23:31:12.018294 #27896]  INFO -- load: Loading new config
+I, [2014-09-18T23:32:03.019868 #27908]  INFO -- load: Loading new config
+I, [2014-09-18T23:32:38.796238 #27920]  INFO -- load: Loading new config
+I, [2014-09-18T23:35:21.081521 #27974]  INFO -- load: Loading new config
+I, [2014-09-18T23:39:40.738310 #28007]  INFO -- load: Loading new config
+I, [2014-09-18T23:39:58.911266 #28011]  INFO -- load: Loading new config
+I, [2014-09-18T23:40:59.357165 #28023]  INFO -- load: Loading new config
+I, [2014-09-18T23:42:04.081165 #28035]  INFO -- load: Loading new config
+I, [2014-09-18T23:42:36.393586 #28047]  INFO -- load: Loading new config
+I, [2014-09-18T23:43:01.586479 #28059]  INFO -- load: Loading new config
+I, [2014-09-18T23:45:43.699108 #28071]  INFO -- load: Loading new config
+I, [2014-09-18T23:46:07.441066 #28082]  INFO -- load: Loading new config
+I, [2014-09-18T23:49:16.470308 #28092]  INFO -- load: Loading new config
+I, [2014-09-18T23:49:57.471451 #28101]  INFO -- load: Loading new config
+I, [2014-09-18T23:50:40.561062 #28114]  INFO -- load: Loading new config
+I, [2014-09-18T23:51:06.862216 #28126]  INFO -- load: Loading new config
+I, [2014-09-18T23:52:22.014161 #28141]  INFO -- load: Loading new config
+I, [2014-09-18T23:55:17.595129 #28154]  INFO -- load: Loading new config
+I, [2014-09-18T23:56:12.596118 #28166]  INFO -- load: Loading new config
+I, [2014-09-18T23:57:21.733635 #28178]  INFO -- load: Loading new config
+I, [2014-09-18T23:58:36.878306 #28194]  INFO -- load: Loading new config
+I, [2014-09-18T23:58:58.664479 #28206]  INFO -- load: Loading new config
+I, [2014-09-19T00:01:04.393745 #28218]  INFO -- load: Loading new config
+I, [2014-09-19T00:01:24.347169 #28230]  INFO -- load: Loading new config
+I, [2014-09-19T00:02:46.082190 #28243]  INFO -- load: Loading new config
+I, [2014-09-19T00:07:59.486155 #28548]  INFO -- load: Loading new config
+I, [2014-09-19T00:08:05.706452 #28548]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-19T00:08:05.711392 #28548]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-19T00:08:05.711568 #28548]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-19T00:08:05.721455 #28548]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-19T00:08:05.729089 #28548]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-19T00:08:05.731424 #28548]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-19T00:08:05.733552 #28548]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T00:08:05.735536 #28548]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T00:08:05.737599 #28548]  INFO -- authentication: Authentication succesful
+I, [2014-09-19T00:08:33.978766 #28563]  INFO -- load: Loading new config
+I, [2014-09-19T00:09:04.697435 #28588]  INFO -- load: Loading new config
+I, [2014-09-19T00:09:45.258341 #28610]  INFO -- load: Loading new config
+I, [2014-09-19T10:09:56.775403 #29444]  INFO -- load: Loading new config
+I, [2014-09-19T10:10:07.766978 #29444]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-19T10:10:07.778347 #29444]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-19T10:10:07.778463 #29444]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-19T10:10:07.794059 #29444]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-19T10:10:07.806708 #29444]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-19T10:10:07.809198 #29444]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-19T10:10:07.811344 #29444]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T10:10:07.813620 #29444]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T10:10:07.815818 #29444]  INFO -- authentication: Authentication succesful
+I, [2014-09-19T10:13:42.274520 #29506]  INFO -- load: Loading new config
+I, [2014-09-19T10:24:54.859435 #29648]  INFO -- load: Loading new config
+I, [2014-09-19T10:26:26.837625 #29670]  INFO -- load: Loading new config
+I, [2014-09-19T10:26:32.663427 #29673]  INFO -- load: Loading new config
+I, [2014-09-19T10:28:34.215432 #29727]  INFO -- load: Loading new config
+I, [2014-09-19T10:28:43.320257 #29730]  INFO -- load: Loading new config
+I, [2014-09-19T10:29:33.786080 #29746]  INFO -- load: Loading new config
+I, [2014-09-19T10:31:38.928802 #29758]  INFO -- load: Loading new config
+I, [2014-09-19T10:32:55.716722 #29796]  INFO -- load: Loading new config
+I, [2014-09-19T10:34:39.982857 #29847]  INFO -- load: Loading new config
+I, [2014-09-19T10:36:36.911422 #29870]  INFO -- load: Loading new config
+I, [2014-09-19T10:38:12.132816 #29889]  INFO -- load: Loading new config
+I, [2014-09-19T10:39:11.667005 #29910]  INFO -- load: Loading new config
+I, [2014-09-19T10:40:05.228939 #29944]  INFO -- load: Loading new config
+I, [2014-09-19T10:41:13.798084 #29983]  INFO -- load: Loading new config
+I, [2014-09-19T10:41:48.749348 #29995]  INFO -- load: Loading new config
+I, [2014-09-19T10:43:14.823158 #30007]  INFO -- load: Loading new config
+I, [2014-09-19T10:55:37.722274 #30017]  INFO -- load: Loading new config
+I, [2014-09-19T10:55:48.823298 #30017]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-19T10:55:48.828544 #30017]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-19T10:55:48.828684 #30017]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-19T10:55:48.842444 #30017]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-19T10:55:48.850972 #30017]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-19T10:55:48.853949 #30017]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-19T10:55:48.856146 #30017]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T10:55:48.858336 #30017]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T10:55:48.862116 #30017]  INFO -- authentication: Authentication succesful
+I, [2014-09-19T10:56:12.914713 #30017]  INFO -- authentication: Attempting to authenticate as stronj
+I, [2014-09-19T10:56:12.918690 #30017]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = stronj
+I, [2014-09-19T10:56:12.922251 #30017]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-19T10:56:12.929284 #30017]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-19T10:56:12.931621 #30017]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-19T10:56:12.933753 #30017]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T10:56:12.935698 #30017]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T10:56:12.937691 #30017]  INFO -- authentication: Authentication succesful
+I, [2014-09-19T10:57:12.371738 #30035]  INFO -- load: Loading new config
+I, [2014-09-19T11:00:27.102985 #30048]  INFO -- load: Loading new config
+I, [2014-09-19T11:00:33.341765 #30048]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-19T11:00:33.345400 #30048]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-19T11:00:33.345604 #30048]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-19T11:00:33.354761 #30048]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-19T11:00:33.362180 #30048]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-19T11:00:33.364484 #30048]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-19T11:00:33.366522 #30048]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T11:00:33.368548 #30048]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T11:00:33.370704 #30048]  INFO -- authentication: Authentication succesful
+I, [2014-09-19T11:01:21.059159 #30062]  INFO -- load: Loading new config
+I, [2014-09-19T11:03:22.851898 #30139]  INFO -- load: Loading new config
+I, [2014-09-19T11:05:07.410955 #30161]  INFO -- load: Loading new config
+I, [2014-09-19T11:06:08.357268 #30173]  INFO -- load: Loading new config
+I, [2014-09-19T11:07:15.359432 #30185]  INFO -- load: Loading new config
+I, [2014-09-19T11:08:00.058523 #30190]  INFO -- load: Loading new config
+I, [2014-09-19T11:09:20.540741 #30238]  INFO -- load: Loading new config
+I, [2014-09-19T11:11:39.148670 #30279]  INFO -- load: Loading new config
+I, [2014-09-19T11:12:07.985638 #30291]  INFO -- load: Loading new config
+I, [2014-09-19T11:12:56.932254 #30305]  INFO -- load: Loading new config
+I, [2014-09-19T11:13:21.805653 #30318]  INFO -- load: Loading new config
+I, [2014-09-19T11:13:29.567255 #30318]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-19T11:13:29.571436 #30318]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-19T11:13:29.571623 #30318]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-19T11:13:29.582589 #30318]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-19T11:13:29.590333 #30318]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-19T11:13:29.592760 #30318]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-19T11:13:29.594851 #30318]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T11:13:29.596997 #30318]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T11:13:29.599209 #30318]  INFO -- authentication: Authentication succesful
+I, [2014-09-19T11:14:24.284079 #30341]  INFO -- load: Loading new config
+I, [2014-09-19T11:15:49.659703 #30355]  INFO -- load: Loading new config
+I, [2014-09-19T11:18:05.564170 #30374]  INFO -- load: Loading new config
+I, [2014-09-19T11:19:04.267770 #30386]  INFO -- load: Loading new config
+I, [2014-09-19T11:19:21.213990 #30398]  INFO -- load: Loading new config
+I, [2014-09-19T11:21:15.772710 #30418]  INFO -- load: Loading new config
+I, [2014-09-19T11:22:11.513672 #30432]  INFO -- load: Loading new config
+I, [2014-09-19T11:24:08.280198 #30445]  INFO -- load: Loading new config
+I, [2014-09-19T11:24:35.550091 #30457]  INFO -- load: Loading new config
+I, [2014-09-19T11:25:26.163135 #30471]  INFO -- load: Loading new config
+I, [2014-09-19T11:25:45.145480 #30483]  INFO -- load: Loading new config
+I, [2014-09-19T11:26:20.638228 #30495]  INFO -- load: Loading new config
+I, [2014-09-19T11:27:19.409415 #30514]  INFO -- load: Loading new config
+I, [2014-09-19T11:27:57.073604 #30528]  INFO -- load: Loading new config
+I, [2014-09-19T11:28:31.353599 #30541]  INFO -- load: Loading new config
+I, [2014-09-19T11:31:22.925592 #30554]  INFO -- load: Loading new config
+I, [2014-09-19T11:41:21.440390 #30584]  INFO -- load: Loading new config
+I, [2014-09-19T11:41:44.109814 #30596]  INFO -- load: Loading new config
+I, [2014-09-19T11:42:01.829680 #30608]  INFO -- load: Loading new config
+I, [2014-09-19T11:42:30.740511 #30620]  INFO -- load: Loading new config
+I, [2014-09-19T11:42:45.629773 #30632]  INFO -- load: Loading new config
+I, [2014-09-19T11:43:07.664298 #30644]  INFO -- load: Loading new config
+I, [2014-09-19T11:44:17.618712 #30656]  INFO -- load: Loading new config
+I, [2014-09-19T11:45:11.594585 #30668]  INFO -- load: Loading new config
+I, [2014-09-19T11:45:50.150109 #30682]  INFO -- load: Loading new config
+I, [2014-09-19T11:46:23.836285 #30695]  INFO -- load: Loading new config
+I, [2014-09-19T11:46:52.402934 #30708]  INFO -- load: Loading new config
+I, [2014-09-19T20:24:28.462855 #31171]  INFO -- load: Loading new config
+I, [2014-09-19T20:26:27.567270 #31235]  INFO -- load: Loading new config
+I, [2014-09-19T20:27:53.279469 #31253]  INFO -- load: Loading new config
+I, [2014-09-19T20:32:33.249135 #31450]  INFO -- load: Loading new config
+I, [2014-09-19T20:33:33.120230 #31471]  INFO -- load: Loading new config
+I, [2014-09-19T20:38:25.163522 #31491]  INFO -- load: Loading new config
+I, [2014-09-19T20:38:31.579471 #31491]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-19T20:38:31.587099 #31491]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-19T20:38:31.587261 #31491]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-19T20:38:31.612840 #31491]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-19T20:38:31.629916 #31491]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-19T20:38:31.632363 #31491]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-19T20:38:31.634455 #31491]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T20:38:31.636492 #31491]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T20:38:31.638754 #31491]  INFO -- authentication: Authentication succesful
+I, [2014-09-19T20:40:18.339997 #31549]  INFO -- load: Loading new config
+I, [2014-09-19T20:40:54.476039 #31561]  INFO -- load: Loading new config
+I, [2014-09-19T20:42:47.350789 #31573]  INFO -- load: Loading new config
+I, [2014-09-19T20:43:20.709446 #31586]  INFO -- load: Loading new config
+I, [2014-09-19T20:44:14.657686 #31598]  INFO -- load: Loading new config
+I, [2014-09-19T20:44:33.877548 #31610]  INFO -- load: Loading new config
+I, [2014-09-19T20:45:22.075892 #31622]  INFO -- load: Loading new config
+I, [2014-09-19T20:46:07.435422 #31634]  INFO -- load: Loading new config
+I, [2014-09-19T20:46:28.995275 #31646]  INFO -- load: Loading new config
+I, [2014-09-19T20:49:10.928914 #31705]  INFO -- load: Loading new config
+I, [2014-09-19T20:50:41.238895 #31742]  INFO -- load: Loading new config
+I, [2014-09-19T20:51:27.534569 #31754]  INFO -- load: Loading new config
+I, [2014-09-19T20:51:51.707495 #31766]  INFO -- load: Loading new config
+I, [2014-09-19T20:52:26.517378 #31778]  INFO -- load: Loading new config
+I, [2014-09-19T20:52:59.047226 #31790]  INFO -- load: Loading new config
+I, [2014-09-19T20:53:38.247482 #31801]  INFO -- load: Loading new config
+I, [2014-09-19T20:58:07.278404 #31881]  INFO -- load: Loading new config
+I, [2014-09-19T20:58:33.388925 #31893]  INFO -- load: Loading new config
+I, [2014-09-19T21:51:49.700483 #32131]  INFO -- load: Loading new config
+I, [2014-09-19T21:53:51.348191 #32151]  INFO -- load: Loading new config
+I, [2014-09-19T21:54:21.727600 #32151]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-19T21:54:21.733764 #32151]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-19T21:54:21.733870 #32151]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-19T21:54:21.746512 #32151]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-19T21:54:21.760894 #32151]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-19T21:54:21.763509 #32151]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-19T21:54:21.765433 #32151]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T21:54:21.767289 #32151]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-19T21:54:21.769436 #32151]  INFO -- authentication: Authentication succesful
+I, [2014-09-19T21:59:17.202257 #32182]  INFO -- load: Loading new config
+I, [2014-09-19T22:01:05.050515 #32204]  INFO -- load: Loading new config
+I, [2014-09-19T22:02:33.979070 #32224]  INFO -- load: Loading new config
+I, [2014-09-19T22:05:19.041891 #32244]  INFO -- load: Loading new config
+I, [2014-09-19T22:11:18.535825 #32276]  INFO -- load: Loading new config
+I, [2014-09-19T22:13:31.916065 #32338]  INFO -- load: Loading new config
+I, [2014-09-19T22:16:57.118076 #32394]  INFO -- load: Loading new config
+I, [2014-09-20T13:25:12.461490 #727]  INFO -- load: Loading new config
+I, [2014-09-20T13:27:12.179209 #799]  INFO -- load: Loading new config
+I, [2014-09-20T13:27:43.758845 #811]  INFO -- load: Loading new config
+I, [2014-09-20T13:29:24.920748 #823]  INFO -- load: Loading new config
+I, [2014-09-20T13:32:09.081630 #837]  INFO -- load: Loading new config
+I, [2014-09-20T13:35:06.587408 #852]  INFO -- load: Loading new config
+I, [2014-09-20T13:42:13.775286 #906]  INFO -- load: Loading new config
+I, [2014-09-20T13:43:18.490551 #919]  INFO -- load: Loading new config
+I, [2014-09-20T13:44:05.578111 #932]  INFO -- load: Loading new config
+I, [2014-09-20T13:44:39.868361 #944]  INFO -- load: Loading new config
+I, [2014-09-20T13:45:19.279285 #958]  INFO -- load: Loading new config
+I, [2014-09-20T13:48:27.266803 #970]  INFO -- load: Loading new config
+I, [2014-09-20T13:49:43.153509 #974]  INFO -- load: Loading new config
+I, [2014-09-20T13:50:30.622819 #1001]  INFO -- load: Loading new config
+I, [2014-09-20T13:51:22.703673 #1013]  INFO -- load: Loading new config
+I, [2014-09-20T13:51:53.320950 #1027]  INFO -- load: Loading new config
+I, [2014-09-20T13:52:29.976889 #1039]  INFO -- load: Loading new config
+I, [2014-09-20T13:52:57.229158 #1053]  INFO -- load: Loading new config
+I, [2014-09-20T13:53:33.579014 #1065]  INFO -- load: Loading new config
+I, [2014-09-20T13:54:43.026351 #1111]  INFO -- load: Loading new config
+I, [2014-09-20T13:55:10.432545 #1123]  INFO -- load: Loading new config
+I, [2014-09-20T13:56:26.428903 #1136]  INFO -- load: Loading new config
+I, [2014-09-20T13:56:55.292353 #1148]  INFO -- load: Loading new config
+I, [2014-09-20T13:57:50.993476 #1161]  INFO -- load: Loading new config
+I, [2014-09-20T14:00:27.304908 #1173]  INFO -- load: Loading new config
+I, [2014-09-20T14:00:57.622525 #1185]  INFO -- load: Loading new config
+I, [2014-09-20T14:01:32.127062 #1197]  INFO -- load: Loading new config
+I, [2014-09-20T14:01:47.625435 #1197]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-20T14:01:47.639095 #1197]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-20T14:01:47.639256 #1197]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-20T14:01:47.655391 #1197]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-20T14:01:47.672100 #1197]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-20T14:01:47.674435 #1197]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-20T14:01:47.676471 #1197]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-20T14:01:47.678562 #1197]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-20T14:01:47.680659 #1197]  INFO -- authentication: Authentication succesful
+I, [2014-09-20T14:02:44.275275 #1211]  INFO -- load: Loading new config
+I, [2014-09-20T14:04:26.333221 #1248]  INFO -- load: Loading new config
+I, [2014-09-20T14:05:29.576202 #1260]  INFO -- load: Loading new config
+I, [2014-09-20T14:05:55.058020 #1272]  INFO -- load: Loading new config
+I, [2014-09-20T14:07:30.883859 #1358]  INFO -- load: Loading new config
+I, [2014-09-20T14:08:43.829241 #1371]  INFO -- load: Loading new config
+I, [2014-09-20T14:11:36.326388 #1395]  INFO -- load: Loading new config
+I, [2014-09-20T14:12:29.482300 #1407]  INFO -- load: Loading new config
+I, [2014-09-20T14:16:20.917836 #1454]  INFO -- load: Loading new config
+I, [2014-09-20T14:17:47.992369 #1472]  INFO -- load: Loading new config
+I, [2014-09-20T14:18:08.025001 #1484]  INFO -- load: Loading new config
+I, [2014-09-20T14:22:01.294304 #1496]  INFO -- load: Loading new config
+I, [2014-09-20T14:23:26.580467 #1509]  INFO -- load: Loading new config
+I, [2014-09-20T14:26:04.681598 #1522]  INFO -- load: Loading new config
+I, [2014-09-20T14:26:30.694439 #1534]  INFO -- load: Loading new config
+I, [2014-09-20T14:27:24.715955 #1546]  INFO -- load: Loading new config
+I, [2014-09-20T14:27:55.768177 #1558]  INFO -- load: Loading new config
+I, [2014-09-20T14:30:22.853649 #1579]  INFO -- load: Loading new config
+I, [2014-09-20T14:31:32.634937 #1591]  INFO -- load: Loading new config
+I, [2014-09-20T14:32:00.971801 #1603]  INFO -- load: Loading new config
+I, [2014-09-20T14:32:40.344164 #1615]  INFO -- load: Loading new config
+I, [2014-09-20T14:34:05.109611 #1627]  INFO -- load: Loading new config
+I, [2014-09-20T14:34:47.837908 #1640]  INFO -- load: Loading new config
+I, [2014-09-20T14:36:59.845601 #1652]  INFO -- load: Loading new config
+I, [2014-09-20T14:37:49.248569 #1664]  INFO -- load: Loading new config
+I, [2014-09-20T14:38:24.355963 #1676]  INFO -- load: Loading new config
+I, [2014-09-20T14:38:57.803887 #1688]  INFO -- load: Loading new config
+I, [2014-09-20T19:59:24.086915 #2072]  INFO -- load: Loading new config
+I, [2014-09-20T20:01:41.160609 #2085]  INFO -- load: Loading new config
+I, [2014-09-20T20:02:09.015679 #2097]  INFO -- load: Loading new config
+I, [2014-09-20T20:02:54.518684 #2109]  INFO -- load: Loading new config
+I, [2014-09-20T20:04:05.661278 #2121]  INFO -- load: Loading new config
+I, [2014-09-20T20:04:29.840024 #2121]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-20T20:04:29.847111 #2121]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-20T20:04:29.847353 #2121]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-20T20:04:29.866266 #2121]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-20T20:04:29.874104 #2121]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-20T20:04:29.877589 #2121]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-20T20:04:29.879612 #2121]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-20T20:04:29.881638 #2121]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-20T20:04:29.883641 #2121]  INFO -- authentication: Authentication succesful
+I, [2014-09-20T20:08:12.394799 #2206]  INFO -- load: Loading new config
+I, [2014-09-20T20:08:29.653578 #2206]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-20T20:08:29.656786 #2206]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-20T20:08:29.656932 #2206]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-20T20:08:29.665226 #2206]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-20T20:08:29.672140 #2206]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-20T20:08:29.674213 #2206]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-20T20:08:29.676323 #2206]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-20T20:08:29.678266 #2206]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-20T20:08:29.680395 #2206]  INFO -- authentication: Authentication succesful
+I, [2014-09-20T20:10:15.929223 #2242]  INFO -- load: Loading new config
+I, [2014-09-20T20:10:49.626923 #2278]  INFO -- load: Loading new config
+I, [2014-09-20T20:11:56.301126 #2290]  INFO -- load: Loading new config
+I, [2014-09-20T20:12:37.097989 #2302]  INFO -- load: Loading new config
+I, [2014-09-20T20:13:04.609841 #2314]  INFO -- load: Loading new config
+I, [2014-09-20T20:13:27.921056 #2326]  INFO -- load: Loading new config
+I, [2014-09-20T20:13:47.234311 #2338]  INFO -- load: Loading new config
+I, [2014-09-20T20:14:16.446145 #2350]  INFO -- load: Loading new config
+I, [2014-09-20T20:15:16.561447 #2362]  INFO -- load: Loading new config
+I, [2014-09-20T20:15:46.486169 #2381]  INFO -- load: Loading new config
+I, [2014-09-20T20:16:09.713902 #2393]  INFO -- load: Loading new config
+I, [2014-09-20T20:17:45.905900 #2417]  INFO -- load: Loading new config
+I, [2014-09-20T20:18:14.562794 #2429]  INFO -- load: Loading new config
+I, [2014-09-20T20:21:55.491471 #2453]  INFO -- load: Loading new config
+I, [2014-09-20T20:22:36.722987 #2465]  INFO -- load: Loading new config
+I, [2014-09-20T21:08:00.342238 #2706]  INFO -- load: Loading new config
+I, [2014-09-20T21:08:55.089419 #2718]  INFO -- load: Loading new config
+I, [2014-09-20T21:09:32.238120 #2742]  INFO -- load: Loading new config
+I, [2014-09-20T21:12:52.671471 #2754]  INFO -- load: Loading new config
+I, [2014-09-20T21:14:30.778622 #2766]  INFO -- load: Loading new config
+I, [2014-09-20T21:15:02.539953 #2778]  INFO -- load: Loading new config
+I, [2014-09-20T21:15:38.202963 #2790]  INFO -- load: Loading new config
+I, [2014-09-20T21:16:45.402706 #2802]  INFO -- load: Loading new config
+I, [2014-09-20T21:17:27.468069 #2817]  INFO -- load: Loading new config
+I, [2014-09-20T21:18:24.831130 #2829]  INFO -- load: Loading new config
+I, [2014-09-20T21:19:09.393986 #2841]  INFO -- load: Loading new config
+I, [2014-09-20T21:20:11.876602 #2853]  INFO -- load: Loading new config
+I, [2014-09-20T21:26:56.230572 #2893]  INFO -- load: Loading new config
+I, [2014-09-20T21:29:51.869806 #2906]  INFO -- load: Loading new config
+I, [2014-09-20T21:30:26.224981 #2918]  INFO -- load: Loading new config
+I, [2014-09-20T21:31:26.209370 #2930]  INFO -- load: Loading new config
+I, [2014-09-20T21:31:58.198956 #2942]  INFO -- load: Loading new config
+I, [2014-09-20T21:32:15.710660 #2954]  INFO -- load: Loading new config
+I, [2014-09-20T21:33:50.787576 #2966]  INFO -- load: Loading new config
+I, [2014-09-20T21:34:38.470104 #2978]  INFO -- load: Loading new config
+I, [2014-09-20T21:37:37.171223 #2990]  INFO -- load: Loading new config
+I, [2014-09-20T21:38:24.551734 #3002]  INFO -- load: Loading new config
+I, [2014-09-20T21:39:33.013780 #3026]  INFO -- load: Loading new config
+I, [2014-09-20T21:40:16.652097 #3026]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-09-20T21:40:16.662028 #3026]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-09-20T21:40:16.662223 #3026]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-09-20T21:40:16.675067 #3026]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-09-20T21:40:16.689125 #3026]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-09-20T21:40:16.691531 #3026]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-09-20T21:40:16.693600 #3026]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = Greg Colburn
+I, [2014-09-20T21:40:16.695573 #3026]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = Greg Colburn
+I, [2014-09-20T21:40:16.697569 #3026]  INFO -- authentication: Authentication succesful
+I, [2014-09-20T21:40:42.800382 #3046]  INFO -- load: Loading new config
+I, [2014-09-20T21:41:16.750821 #3059]  INFO -- load: Loading new config
+I, [2014-09-20T21:42:11.325464 #3071]  INFO -- load: Loading new config
+I, [2014-09-20T21:44:43.528309 #3089]  INFO -- load: Loading new config
+I, [2014-09-20T21:46:44.308830 #3103]  INFO -- load: Loading new config
+I, [2014-09-20T21:47:35.366500 #3119]  INFO -- load: Loading new config
+I, [2014-09-20T23:11:48.397682 #3207]  INFO -- load: Loading new config
+I, [2014-09-20T23:19:47.476205 #3224]  INFO -- load: Loading new config
+I, [2014-09-20T23:22:45.659992 #3261]  INFO -- load: Loading new config

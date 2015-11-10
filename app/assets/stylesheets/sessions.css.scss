@@ -1,0 +1,18 @@
+// Place all the styles related to the sessions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+div#login_form { border-radius : .5em ; text-align : center; display : block; margin-left : auto ; margin-right : auto; margin-top : 10%; width : 20em; font-size : 1.6em; background-color :  $site-gray; color : #FFFFFF; padding: 1em ; border: solid; border-width: 0.15em ;border-color: $site-blue} 
+
+#username, #password { width : 12em; } 
+
+#login_header {width :90%;  margin-left : auto ; margin-right : auto }
+
+#login_input {width : 90%; margin-left : auto ; margin-right : auto ;  background-color : $site-blue ; margin-bottom : 2em ; padding : 1em 0 1em 0;}
+
+#login_button { font-size : 1.6em ; color : #FFFFFF ; background-color : $site-blue ; width : 90% ; border : solid ; border-width : 1px ; border-radius : 20em; }
+
+div#rails_logo {position : absolute; top : 90% ; }
+
+img#rails_logo {height: 5em ; width: 4em ; border:0}

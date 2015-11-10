@@ -1,0 +1,100 @@
+# Logfile created on 2014-10-06 09:48:45 -0400 by logger.rb/44203
+I, [2014-10-06T09:48:45.461705 #21025]  INFO -- load: Loading new config
+I, [2014-10-06T16:43:26.467803 #5769]  INFO -- load: Loading new config
+I, [2014-10-06T16:44:57.365326 #5815]  INFO -- load: Loading new config
+I, [2014-10-06T16:45:28.971290 #5835]  INFO -- load: Loading new config
+I, [2014-10-06T16:46:07.331808 #5863]  INFO -- load: Loading new config
+I, [2014-10-06T16:47:25.266854 #5905]  INFO -- load: Loading new config
+I, [2014-10-06T16:48:54.761023 #5953]  INFO -- load: Loading new config
+I, [2014-10-06T16:49:20.290773 #5975]  INFO -- load: Loading new config
+I, [2014-10-06T16:49:38.006100 #5995]  INFO -- load: Loading new config
+I, [2014-10-06T16:49:58.823222 #6015]  INFO -- load: Loading new config
+I, [2014-10-06T16:50:31.770724 #6041]  INFO -- load: Loading new config
+I, [2014-10-06T16:56:33.295284 #6226]  INFO -- load: Loading new config
+I, [2014-10-06T16:58:41.826541 #6364]  INFO -- load: Loading new config
+I, [2014-10-06T17:07:53.946178 #7001]  INFO -- load: Loading new config
+I, [2014-10-06T17:08:14.397691 #7016]  INFO -- load: Loading new config
+I, [2014-10-07T10:31:16.062528 #1432]  INFO -- load: Loading new config
+I, [2014-10-07T10:31:27.576432 #1432]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-10-07T10:31:27.580153 #1432]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-10-07T10:31:27.580307 #1432]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-10-07T10:31:27.589776 #1432]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-10-07T10:31:27.598691 #1432]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-10-07T10:31:27.601155 #1432]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-10-07T10:31:27.602903 #1432]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = David Turton
+I, [2014-10-07T10:31:27.604628 #1432]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = David Turton
+I, [2014-10-07T10:31:27.606455 #1432]  INFO -- authentication: Authentication succesful
+I, [2014-10-07T10:32:01.206859 #1472]  INFO -- load: Loading new config
+I, [2014-10-07T10:34:38.074682 #1553]  INFO -- load: Loading new config
+I, [2014-10-07T10:45:25.923985 #1853]  INFO -- load: Loading new config
+I, [2014-10-07T10:46:16.980129 #1885]  INFO -- load: Loading new config
+I, [2014-10-07T10:46:42.609226 #1907]  INFO -- load: Loading new config
+I, [2014-10-07T10:47:30.338456 #1939]  INFO -- load: Loading new config
+I, [2014-10-07T10:51:43.101246 #2051]  INFO -- load: Loading new config
+I, [2014-10-07T10:58:50.078166 #2235]  INFO -- load: Loading new config
+I, [2014-10-07T11:02:39.088842 #2343]  INFO -- load: Loading new config
+I, [2014-10-07T11:12:09.340959 #2607]  INFO -- load: Loading new config
+I, [2014-10-07T13:06:09.966800 #1345]  INFO -- load: Loading new config
+I, [2014-10-07T13:07:37.237114 #1357]  INFO -- load: Loading new config
+I, [2014-10-07T13:08:46.773168 #1369]  INFO -- load: Loading new config
+I, [2014-10-07T13:09:44.043213 #1394]  INFO -- load: Loading new config
+I, [2014-10-07T13:16:24.194992 #1467]  INFO -- load: Loading new config
+I, [2014-10-07T13:17:06.088033 #1481]  INFO -- load: Loading new config
+I, [2014-10-07T13:17:28.615907 #1493]  INFO -- load: Loading new config
+I, [2014-10-07T13:17:37.592333 #1493]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-10-07T13:17:37.596747 #1493]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-10-07T13:17:37.596855 #1493]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-10-07T13:17:37.609057 #1493]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-10-07T13:17:37.617936 #1493]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-10-07T13:17:37.620257 #1493]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-10-07T13:17:37.622286 #1493]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = David Turton
+I, [2014-10-07T13:17:37.624347 #1493]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = David Turton
+I, [2014-10-07T13:17:37.626647 #1493]  INFO -- authentication: Authentication succesful
+I, [2014-10-07T13:18:18.624272 #1506]  INFO -- load: Loading new config
+I, [2014-10-07T13:25:13.484338 #1526]  INFO -- load: Loading new config
+I, [2014-10-07T13:26:45.389804 #1538]  INFO -- load: Loading new config
+I, [2014-10-07T13:28:09.666072 #1551]  INFO -- load: Loading new config
+I, [2014-10-07T13:28:41.125961 #1563]  INFO -- load: Loading new config
+I, [2014-10-07T13:29:43.828334 #1601]  INFO -- load: Loading new config
+I, [2014-10-07T13:29:49.203604 #1601]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-10-07T13:29:49.207226 #1601]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-10-07T13:29:49.207329 #1601]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-10-07T13:29:49.216963 #1601]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-10-07T13:29:49.225066 #1601]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-10-07T13:29:49.227536 #1601]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-10-07T13:29:49.229756 #1601]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = David Turton
+I, [2014-10-07T13:29:49.231902 #1601]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = David Turton
+I, [2014-10-07T13:29:49.234164 #1601]  INFO -- authentication: Authentication succesful
+I, [2014-10-07T13:34:55.693268 #1774]  INFO -- load: Loading new config
+I, [2014-10-07T13:35:31.677472 #1800]  INFO -- load: Loading new config
+I, [2014-10-07T13:42:20.593959 #2047]  INFO -- load: Loading new config
+I, [2014-10-07T13:43:23.097821 #2113]  INFO -- load: Loading new config
+I, [2014-10-07T13:50:07.674547 #2319]  INFO -- load: Loading new config
+I, [2014-10-07T13:56:13.380006 #2481]  INFO -- load: Loading new config
+I, [2014-10-07T13:57:56.501277 #2538]  INFO -- load: Loading new config
+I, [2014-10-07T13:58:15.891115 #2557]  INFO -- load: Loading new config
+I, [2014-10-07T13:59:30.761955 #2595]  INFO -- load: Loading new config
+I, [2014-10-07T14:01:10.569873 #2718]  INFO -- load: Loading new config
+I, [2014-10-07T20:43:15.447238 #13044]  INFO -- load: Loading new config
+I, [2014-10-07T20:44:32.220156 #13235]  INFO -- load: Loading new config
+I, [2014-10-07T20:44:50.845529 #13235]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-10-07T20:44:50.849566 #13235]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-10-07T20:44:50.849745 #13235]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-10-07T20:44:50.859271 #13235]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-10-07T20:44:50.866911 #13235]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-10-07T20:44:50.869274 #13235]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-10-07T20:44:50.871314 #13235]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = David Turton
+I, [2014-10-07T20:44:50.873368 #13235]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = David Turton
+I, [2014-10-07T20:44:50.875483 #13235]  INFO -- authentication: Authentication succesful
+I, [2014-10-07T20:51:14.299848 #13438]  INFO -- load: Loading new config
+I, [2014-10-07T20:52:21.387841 #13471]  INFO -- load: Loading new config
+I, [2014-10-07T20:53:10.398729 #13471]  INFO -- authentication: Attempting to authenticate as ghiorc
+I, [2014-10-07T20:53:10.402362 #13471]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = ghiorc
+I, [2014-10-07T20:53:10.402489 #13471]  INFO -- connection: Connecting to AD as "ldap_lookup"
+I, [2014-10-07T20:53:10.411163 #13471]  INFO -- Class: Searching for all "(objectClass=group)" where name = Commercial Lab Admins
+I, [2014-10-07T20:53:10.418586 #13471]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = 
+I, [2014-10-07T20:53:10.420684 #13471]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = 
+I, [2014-10-07T20:53:10.422634 #13471]  INFO -- Class: Searching for all "(objectClass=user)" where sAMAccountName = David Turton
+I, [2014-10-07T20:53:10.424734 #13471]  INFO -- Class: Searching for all "(objectClass=group)" where sAMAccountName = David Turton
+I, [2014-10-07T20:53:10.426990 #13471]  INFO -- authentication: Authentication succesful
+I, [2014-10-07T20:55:17.043948 #13626]  INFO -- load: Loading new config
